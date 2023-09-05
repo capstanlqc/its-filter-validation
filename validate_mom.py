@@ -6,6 +6,8 @@ import pandas as pd
 from xml.dom.minidom import parse, parseString
 from deepdiff import DeepDiff
 from dotted_dict import DottedDict
+from collections import Counter
+import time
 
 """ preconditions: 
 - all item nodes have id attribute
@@ -84,13 +86,20 @@ def get_report_from_diff(diff):
 	return report
 
 
+# constants
+
+today = time.strftime("%Y%m%d-%H%M%S")
+# version = {}
+# version = 1 if today not in version else version[today]+1
+# add as {version:02d}
+
 
 mom = DottedDict()
 ids = {}
 ids["mom"] = {}
 ids["xml"] = {}
 
-output = 'mom_mismatches_report.xlsx'
+output = f'mom_mismatches_report_{today}.xlsx'
 filter_id = None # "ST228" # "ST828"
 xls = "MoM.xlsx" # _ST228.xlsx"
 # xls = "MoM_ST841.xlsx"
