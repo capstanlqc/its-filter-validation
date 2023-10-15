@@ -11,6 +11,7 @@ import argparse
 
 print(sys.prefix)
 
+
 """ preconditions: 
 - all item nodes have id attribute
 - all label nodes have key attributes
@@ -186,13 +187,15 @@ xls_file = "MoM.xlsx" # _ST229.xlsx" # _ST003.xlsx" # _ST801NZL.xlsx" # _ST228.x
 # process MoM (Excel)
 
 # print("==== PROCESSING MOM DATA ====")
-
 mom = DottedDict()
 mom_data = pl.read_excel(mom_fpath)
+
 locales = [x for x in mom_data.columns if is_locale(x)]
 
 mom_label_ids = mom_data["ITEM ID"].to_list()
 mom_id_string_concats = []
+
+
 
 for row in mom_data.rows(named=True):
 	# include_dict = {key: value for (key, value) in row if condition(key, value)}
@@ -230,7 +233,9 @@ for row in mom_data.rows(named=True):
 
 # print("==== PROCESSING OMT DATA ====")
 
+print(f"Open {mom_fpath=}")
 omt_data = pd.read_excel(omt_fpath)
+
 # print(omt_data.to_dict('records'))
 # print(f"{omt_data=}")
 # omt_data_dict = dict(zip(omt_data.key, omt_data.label))
@@ -253,7 +258,7 @@ omt_data['label_id'] = [re.split(r'_[a-z0-9]{32}', id)[0] if id != None else "N/
 
 print(f"{mom_id_string_concats=}")
 
-
+print(f"Open {xml_fpath=}")
 xml_data = DottedDict()
 document = parse(xml_fpath)
 labels = document.getElementsByTagName("label")
