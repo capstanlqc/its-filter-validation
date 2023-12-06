@@ -19,11 +19,13 @@ Remove ITS filtering properties:
 
 ### Prepare file `--omt {q}_OMT.xlsx` 
 
-1. Pack any PISA25 team project (any `pisa_2025ft_translation_*`) to create an offline package
+You'll need a PISA25 team project containing the two QQ batches `04_QQS_N` and `05_QQA_N`. Alternatively you can always add the two batch folders later manually.
+
+1. Pack the team project (any `pisa_2025ft_translation_*`) to create an offline package.
 2. Unpack that project
-3. Add the XML file to the project
+3. Add QQ batch folders containing the XML file to the project (if necessary) -- see above
 4. In the project settings, remove tags and disable segmentation
-5. If that wasn't done already, remove ITS filtering props in XML file (see above)
+5. If that wasn't done already, remove ITS filtering props in XML file -- see above
 6. Export the project as Excel
 7. In the export, remove all sheets (if any) except the one for the questionnaire in question
 8. In the one remaining sheet, remove the title row and all columns except the source text and the key
