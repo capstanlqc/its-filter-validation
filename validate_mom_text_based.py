@@ -200,7 +200,7 @@ mom_id_string_concats = []
 for row in mom_data.rows(named=True):
 	# include_dict = {key: value for (key, value) in row if condition(key, value)}
 	label_id = row["ITEM ID"]
-	label_text = row["Text for MoM"]
+	label_text = row["Text For MoM"]
 
 	if filter_id and label_id and filter_id not in label_id: continue # filter test
 
@@ -239,12 +239,14 @@ omt_data = pd.read_excel(omt_fpath)
 # print(omt_data.to_dict('records'))
 # print(f"{omt_data=}")
 # omt_data_dict = dict(zip(omt_data.key, omt_data.label))
-omt_data_dict = {k.removesuffix("_0"):v for (k,v) in dict(zip(omt_data.key, omt_data.label)).items()}
+omt_data_dict = {str(k).removesuffix("_0"):v for (k,v) in dict(zip(omt_data.key, omt_data.label)).items() if str(k) != ""}
 # pprint.pprint(omt_data_dict)
 # remove \u200c
 
 # omt_data['label_id'] = [re.split(r'_[a-z0-9]{32}', id)[0] if id != None else "N/A" for id in omt_data["key"].to_list()]
-omt_data['label_id'] = [re.split(r'_[a-z0-9]{32}', id)[0] if id != None else "N/A" for id in omt_data["key"].to_list()]
+# and re.search('_[a-z0-9]{32}', id) 
+omt_data['label_id'] = [re.split(r'_[a-z0-9]{32}', id)[0] if isinstance(id, str) else "N/A" for id in omt_data["key"].to_list()]
+
 
 # add _# to each item_id
 
