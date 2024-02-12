@@ -27,6 +27,10 @@ You'll need a PISA25 team project containing the two QQ batches `04_QQS_N` and `
 10. Name those two columns as 'label' and 'key'
 11. Save as xlsx.
 
+If you prefer to watch rather than to read, here's a peek: 
+
+![](https://i.imgur.com/g9qVAoa.gif)
+
 #### Remove ITS filtering properties in the XML files used for the XLS export:
 
 - Using a copy of the XML file, remove all text matched by ` its:(localeFilterList|localeFilterType)="[^"]+"` so that it is locale-neutral and nothing is filtered out. Do not modify the original XML file (used in argument `--xml`).
