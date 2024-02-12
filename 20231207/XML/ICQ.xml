@@ -1,0 +1,1014 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" its:localeFilterList="fr-FR,es-GT,en-KE,sq-XK,ky-KG,ru-KG,mk-MK,sq-MK,en-PH,pt-PT,vi-VN,es-CL,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+    <sharedstimuli></sharedstimuli>
+    <items>
+        <item id="IC170" its:localeFilterList="fr-FR,es-GT,en-KE,sq-XK,ky-KG,ru-KG,mk-MK,sq-MK,en-PH,pt-PT,vi-VN,es-CL,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC170_9d68cb41919b2021c0bfe7ecdafd5a8a_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <strong>‌This school year, how often did you use the following &lt;digital resources&gt; <span class="txt-underline">at school</span>?‌</strong>
+                </text>
+            </label>
+            <label key="IC170_d9b40c077d5221a1764edea225c1d574_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="IC170_IC170_01_03ca1b65d43aeb6ab911a0f0c848e3b2_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Never or almost never‌</em>
+                </text>
+            </label>
+            <label key="IC170_IC170_02_4b148f87400cd2308a9e993ccdb9f94f_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a month‌</em>
+                </text>
+            </label>
+            <label key="IC170_IC170_03_9194c58472cc2f1fc715ed3cabfd3c3a_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a week‌</em>
+                </text>
+            </label>
+            <label key="IC170_IC170_04_222a7414c66b83712fcb34c56bbcedb1_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Every day or almost every day‌</em>
+                </text>
+            </label>
+            <label key="IC170_IC170_05_1a22bd70407330d592c62d24f9947fa1_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Several times a day ‌</em>
+                </text>
+            </label>
+            <label key="IC170_IC170_06_a9e640d9fe94db68993fba0c9d4a5457_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌This resource is not available to me at school.‌</em>
+                </text>
+            </label>
+            <label key="IC170_IC170Q01JA_a05b0669dc33d5111ebc3f2958ca02b2_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Desktop or laptop computer</text>
+            </label>
+            <label key="IC170_IC170Q02JA_6103dbd3c19e44d79a2270e9d2a5eaf4_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Smartphone (i.e. mobile phone with Internet access)</text>
+            </label>
+            <label key="IC170_IC170Q03JA_8bb6b8be6c21f9153929f2ef30b80182_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>&lt;Tablet device&gt; (e.g.&lt;iPad®&gt;, &lt; Galaxy Tablet®&gt;,) or &lt;e-book reader&gt; (e.g. &lt;Amazon® Kindle™&gt;, &lt;Kobo®&gt;)</text>
+            </label>
+            <label key="IC170_IC170Q04JA_da8c874bc9cda5906984e2701fb92c6e_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Internet access (except on smartphones)</text>
+            </label>
+            <label key="IC170_IC170Q05JA_e998138305c2e8c94d63e2439f8ef333_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>School portal (to consult timetable, absences, etc.)</text>
+            </label>
+            <label key="IC170_IC170Q06JA_edd07748a4002987a3a35c6a61526cdc_14" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Educational software, games or Apps, other learning tools (e.g. &lt;CK-12™&gt;, &lt;Lucidchart&gt;, or &lt;Mathalicious®&gt; online support)</text>
+            </label>
+            <label key="IC170_IC170Q07JA_8a589ba605afd1fe6daf61449abc07ae_15" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>A learning management system or school learning platform (e.g. &lt;Blackboard®&gt;, &lt;Edmodo®&gt;, &lt;Moodle®&gt;, &lt;Google® Classroom™&gt;)</text>
+            </label>
+            <label key="IC170_IC170Q08_78c0ed8db32506ee4e803c6b7b4de3e1_16" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>&lt;Virtual reality (VR) hardware&gt; (e.g. &lt;Google Cardboard®&gt;, &lt;Oculus&gt;, &lt;Class VR&gt;)</text>
+            </label>
+            <label key="IC170_IC170Q09_0e2a1d7e5ab2b52274bb66dc4f670c68_17" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Robotic devices (e.g. &lt;3D printers&gt;, &lt;laser cutters&gt;, &lt;drones&gt;)</text>
+            </label>
+            <label key="IC170_IC170Q10_aef4469b01f0f215e2423b46393b1ad9_18" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>&lt;Artificial Intelligence (AI)&gt; tools or software (e.g. &lt;ChatGPT&gt;, &lt;MidJourney&gt;, &lt;Stable Diffusion&gt;)</text>
+            </label>
+            <label key="IC170_IC170N11_0557dc055cd7f79790dda048f0bd8b24_19" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>&lt;National addition 600&gt;</text>
+            </label>
+        </item>
+        <item id="IC171" its:localeFilterList="fr-FR,es-GT,en-KE,sq-XK,ky-KG,ru-KG,mk-MK,sq-MK,en-PH,pt-PT,vi-VN,es-CL,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC171_8f2f75554b0d6c5ce0588866753556dc_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <strong>‌This school year, how often did you use the following &lt;digital resources&gt; <span class="txt-underline">outside of school</span> (e.g., at home or where you usually access &lt;digital resources&gt;)?‌</strong>
+                </text>
+            </label>
+            <label key="IC171_d9b40c077d5221a1764edea225c1d574_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="IC171_IC171_01_4f76188f7ed8b86216bd9c03968550c4_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Never or almost never‌</em>
+                </text>
+            </label>
+            <label key="IC171_IC171_02_5a2c83370ba5d7bee35afba5b87971d3_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a month‌</em>
+                </text>
+            </label>
+            <label key="IC171_IC171_03_accfe5f8a2fed9b5fac1facea5a44774_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a week‌</em>
+                </text>
+            </label>
+            <label key="IC171_IC171_04_2c721e029e123982a3ecdbf962023215_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Every day or almost every day‌</em>
+                </text>
+            </label>
+            <label key="IC171_IC171_05_db522df96842154089a7e7df9700a4d1_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Several times a day ‌</em>
+                </text>
+            </label>
+            <label key="IC171_IC171_06_9d9f1b5d218f5ae92d9df71211c0176c_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌This resource is not available to me outside of school.‌</em>
+                </text>
+            </label>
+            <label key="IC171_IC171Q01JA_a05b0669dc33d5111ebc3f2958ca02b2_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Desktop or laptop computer</text>
+            </label>
+            <label key="IC171_IC171Q02JA_6103dbd3c19e44d79a2270e9d2a5eaf4_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Smartphone (i.e. mobile phone with Internet access)</text>
+            </label>
+            <label key="IC171_IC171Q03JA_007c6a62d10dbae98bcef07dd9eb1986_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>&lt;Tablet device&gt; (e.g.&lt;iPad®&gt;, &lt;Galaxy Tablet®&gt;,) or &lt;e-book reader&gt; (e.g., &lt;Amazon® Kindle™&gt;, &lt;Kobo®&gt;)</text>
+            </label>
+            <label key="IC171_IC171Q04JA_da8c874bc9cda5906984e2701fb92c6e_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Internet access (except on smartphones)</text>
+            </label>
+            <label key="IC171_IC171Q05JA_0f4ed9a9be04be60e386a0f3a830df02_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Educational software, games or Apps, other learning tools (e.g. &lt;CK-12™&gt;, &lt;Lucidchart&gt;, or &lt;Mathalicious®&gt; online support)</text>
+            </label>
+            <label key="IC171_IC171Q06JA_ad6641acc563fb93edaafcdd22d77e29_14" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Video or online games (e.g. used with game consoles such as a &lt; Play Station 5®&gt; or &lt;Nintendo Switch®&gt;, online gaming platforms such as &lt;Steam®&gt; or gaming Apps such as &lt;Candy Crush®&gt;)</text>
+            </label>
+            <label key="IC171_IC171Q07_20cd1d387925448e245ca52008d5effd_15" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Smartwatch (e.g. &lt;Apple Watch®&gt;, &lt;Samsung Galaxy Watch®&gt; or fitness tracker (e.g. &lt;FitBit®&gt;)</text>
+            </label>
+            <label key="IC171_IC171Q08_9257c4b30633444761b175adec4f6c65_16" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>&lt;Virtual reality (VR)&gt; hardware (e.g. &lt;Google Cardboard®&gt;, &lt;Oculus&gt;, &lt;Class VR&gt;)</text>
+            </label>
+            <label key="IC171_IC171Q09_0e2a1d7e5ab2b52274bb66dc4f670c68_17" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Robotic devices (e.g. &lt;3D printers&gt;, &lt;laser cutters&gt;, &lt;drones&gt;)</text>
+            </label>
+            <label key="IC171_IC171Q10_aef4469b01f0f215e2423b46393b1ad9_18" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>&lt;Artificial Intelligence (AI)&gt; tools or software (e.g. &lt;ChatGPT&gt;, &lt;MidJourney&gt;, &lt;Stable Diffusion&gt;)</text>
+            </label>
+            <label key="IC171_IC171N11_61759bbdad91cdcd4405170ca2495588_19" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>&lt;National addition 601&gt;</text>
+            </label>
+        </item>
+        <item id="IC800AUT" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,pt-PT,vi-VN,ar-AE,en-AE,es-AR,en-AU,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,es-CL,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC800AUT_b21a94925dac8325e8b9e319da90dd8b_1" its:localeFilterList="de-AT" its:localeFilterType="include">
+                <text>
+                    <strong>‌How long do you use the internet outside of school on a normal weekday?‌</strong>
+                </text>
+            </label>
+            <label key="IC800AUT_28b54181e7352185d0618e6da472b827_2" its:localeFilterList="de-AT" its:localeFilterType="include">
+                <text>
+                    <em>‌Please enter the time in hours and minutes. For example, if you use the Internet for 2 ½ hours per day, please enter 2 hours and 30 minutes.‌</em>
+                </text>
+            </label>
+            <label key="IC800AUT_73cdddd7730abfc13a55efb9f5685a3b_3" its:localeFilterList="de-AT" its:localeFilterType="include">
+                <text>hours</text>
+            </label>
+            <label key="IC800AUT_640fd0cc0ffa0316ae087652871f4486_4" its:localeFilterList="de-AT" its:localeFilterType="include">
+                <text>minutes</text>
+            </label>
+            <label key="IC800AUT_8c2f3c1d9f438645c2cbe89a7529c71c_5" its:localeFilterList="de-AT" its:localeFilterType="include">
+                <text>&lt;hours and minutes per day&gt;</text>
+            </label>
+        </item>
+        <item id="IC801AUT" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,pt-PT,vi-VN,ar-AE,en-AE,es-AR,en-AU,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,es-CL,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC801AUT_537b6f260fe697879c9287a58948ffee_1" its:localeFilterList="de-AT" its:localeFilterType="include">
+                <text>
+                    <strong>‌How long do you use the internet outside of school on a normal weekend day?‌</strong>
+                </text>
+            </label>
+            <label key="IC801AUT_28b54181e7352185d0618e6da472b827_2" its:localeFilterList="de-AT" its:localeFilterType="include">
+                <text>
+                    <em>‌Please enter the time in hours and minutes. For example, if you use the Internet for 2 ½ hours per day, please enter 2 hours and 30 minutes.‌</em>
+                </text>
+            </label>
+            <label key="IC801AUT_73cdddd7730abfc13a55efb9f5685a3b_3" its:localeFilterList="de-AT" its:localeFilterType="include">
+                <text>hours</text>
+            </label>
+            <label key="IC801AUT_640fd0cc0ffa0316ae087652871f4486_4" its:localeFilterList="de-AT" its:localeFilterType="include">
+                <text>minutes</text>
+            </label>
+            <label key="IC801AUT_8c2f3c1d9f438645c2cbe89a7529c71c_5" its:localeFilterList="de-AT" its:localeFilterType="include">
+                <text>&lt;hours and minutes per day&gt;</text>
+            </label>
+        </item>
+        <item id="IC172" its:localeFilterList="fr-FR,es-GT,en-KE,sq-XK,ky-KG,ru-KG,mk-MK,sq-MK,en-PH,pt-PT,vi-VN,es-CL,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC172_94f17cf30fd9c6129482135508563d7e_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>The following question is about the availability, accessibility and quality of &lt;digital resources&gt; at your school.</text>
+            </label>
+            <label key="IC172_5223e9c704b7e74a83d6e624f5770fb4_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <strong>‌To what extent do you agree or disagree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="IC172_e5833103cf7aeb8dd87f0280e3044eb8_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please think of different kinds of &lt;digital resources&gt; such as desktop computers, laptops, smartphones and tablet devices as well as educational software and other digital learning tools.)‌</em>
+                </text>
+            </label>
+            <label key="IC172_d9b40c077d5221a1764edea225c1d574_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="IC172_IC172_02_b168d50ede806ad88ac4e41cb610f1b5_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="IC172_IC172_03_bf20ef8a8c20fa1122ac54a94fe1e1a6_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="IC172_IC172_04_9bd1cc32a010e67f471f0992668129e4_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="IC172_IC172_05_6d39d965c062fa23ba1715ff225e59e9_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="IC172_IC172Q01JA_cd37f3122cfe8bd14e930cf058bd716b_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>There are enough &lt;digital resources&gt; for every student at my school.</text>
+            </label>
+            <label key="IC172_IC172Q02JA_5683a1072a7e1f2ceeb8393e35605613_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>There are enough digital devices with access to the Internet at my school.</text>
+            </label>
+            <label key="IC172_IC172Q10_f5d2923f8d44621ab8239813c6a92540_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>The school’s Internet is stable.</text>
+            </label>
+            <label key="IC172_IC172Q03JA_df2ff307a05076c6e7f98f8bd85c61b2_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>The school’s Internet speed is sufficient.</text>
+            </label>
+            <label key="IC172_IC172Q04JA_2a6bf7c50541c287c7c4e8b62547bef6_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>&lt;Digital resources&gt; function properly at my school.</text>
+            </label>
+            <label key="IC172_IC172Q05JA_a9e3c8f02ebb69e2e221da076276205c_14" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>&lt;Digital resources&gt; are easily accessible within the classroom.</text>
+            </label>
+            <label key="IC172_IC172Q06JA_19f4bfd25be65323c62970f0bba4e242_15" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Digital learning resources available at my school make learning interesting.</text>
+            </label>
+            <label key="IC172_IC172Q07JA_25ecbd84b16bb1c36fd16f018290ff5b_16" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>The school provides sufficient technical support to help students in their use of &lt;digital resources&gt;.</text>
+            </label>
+            <label key="IC172_IC172Q08JA_743862d7175f727d2eec3ff19627096a_17" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Teachers at my school have the necessary skills to use digital devices during instruction.</text>
+            </label>
+            <label key="IC172_IC172Q09JA_30ea8282c9fb80036d2c664049274d92_18" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Teachers at my school are willing to use &lt;digital resources&gt; for teaching.</text>
+            </label>
+        </item>
+        <item id="IC175" its:localeFilterList="fr-FR,es-GT,en-KE,sq-XK,ky-KG,ru-KG,mk-MK,sq-MK,en-PH,pt-PT,vi-VN,es-CL,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC175_42d0e70f706e439c5ea63f3f5cfebd5b_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>The following statements are about the use of &lt;digital resources&gt; for <em>school-related activities in general (i.e. during lessons or when completing homework)</em>.</text>
+            </label>
+            <label key="IC175_13c96e1274dedb656cffd6e3bd7573f7_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <strong>‌This school year, how often did you use &lt;digital resources&gt; for the following activities?‌</strong>
+                </text>
+            </label>
+            <label key="IC175_d9b40c077d5221a1764edea225c1d574_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="IC175_IC175_01_29d166b1f196f876f6e722049284c1d6_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Never or almost never ‌</em>
+                </text>
+            </label>
+            <label key="IC175_IC175_02_5f930d4ca59db4a7099940d0d2f1a853_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a year ‌</em>
+                </text>
+            </label>
+            <label key="IC175_IC175_03_3f6ceff0db5eb162191804cef19e0d73_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a month ‌</em>
+                </text>
+            </label>
+            <label key="IC175_IC175_04_2d1ac7b83f557257fa7eb5d7c32b8349_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a week ‌</em>
+                </text>
+            </label>
+            <label key="IC175_IC175_05_222a7414c66b83712fcb34c56bbcedb1_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Every day or almost every day‌</em>
+                </text>
+            </label>
+            <label key="IC175_IC175Q01JA_12accdcda9b369690d63fe1907acb3b6_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Read or listen to feedback sent by my teachers regarding my work or academic results</text>
+            </label>
+            <label key="IC175_IC175Q02JA_ece629265b8a8f0961326ac904a2d208_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Read or listen to feedback sent by other students on my work</text>
+            </label>
+            <label key="IC175_IC175Q03JA_06a70146ccbcd5bbcfe3112e0c5e51b3_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Read or listen to feedback automatically selected for me by an educational software or App</text>
+            </label>
+            <label key="IC175_IC175Q05JA_b47e3d91db3759f11b998f0032c20a04_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Work on drill and practice exercises using an educational software or App</text>
+            </label>
+        </item>
+        <item id="IC176" its:localeFilterList="fr-FR,es-GT,en-KE,sq-XK,ky-KG,ru-KG,mk-MK,sq-MK,en-PH,pt-PT,vi-VN,es-CL,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC176_51520d2ad8a1b5bd56e007f3a9b5146a_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>The following statements are about the use of &lt;digital resources&gt; for school-related activities <span class="txt-underline"><em>outside of classroom hours</em></span>.</text>
+            </label>
+            <label key="IC176_13c96e1274dedb656cffd6e3bd7573f7_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <strong>‌This school year, how often did you use &lt;digital resources&gt; for the following activities?‌</strong>
+                </text>
+            </label>
+            <label key="IC176_d9b40c077d5221a1764edea225c1d574_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="IC176_IC176_01_03ca1b65d43aeb6ab911a0f0c848e3b2_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Never or almost never‌</em>
+                </text>
+            </label>
+            <label key="IC176_IC176_02_cec94a77dfe020943c2d79c57b1174c1_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a year‌</em>
+                </text>
+            </label>
+            <label key="IC176_IC176_03_4b148f87400cd2308a9e993ccdb9f94f_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a month‌</em>
+                </text>
+            </label>
+            <label key="IC176_IC176_04_2d1ac7b83f557257fa7eb5d7c32b8349_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a week ‌</em>
+                </text>
+            </label>
+            <label key="IC176_IC176_05_2ff96556236531ec5520ff7e33703c51_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Every day or almost every day ‌</em>
+                </text>
+            </label>
+            <label key="IC176_IC176Q01JA_bfcda7f2e7762f0820c3dcf69c0388f0_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>See my grades or results from specific assignments (e.g. homework or tests)</text>
+            </label>
+            <label key="IC176_IC176Q02JA_30e20695affda2b18dc5643939a7d91f_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Browse the Internet for schoolwork (e.g. for preparing an essay or presentation)</text>
+            </label>
+            <label key="IC176_IC176Q03JA_969c4a72e900a7365445bc4a8716e15e_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Browse the Internet to follow up lessons (e.g. for finding explanations)</text>
+            </label>
+            <label key="IC176_IC176Q04JA_ba2595ed873995777278f54fabd662e3_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Receive or download assignments or instructions (via &lt;digital resources&gt;) from my teacher</text>
+            </label>
+            <label key="IC176_IC176Q05JA_6f6c12004f8f7824d3fbcc499a115793_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Upload my work (e.g. documents or presentations) to a school portal or another platform to share materials with my teacher and/or students</text>
+            </label>
+            <label key="IC176_IC176Q06JA_073f892f8412765dca96fcef3291ecbc_14" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Communicate with my teacher</text>
+            </label>
+            <label key="IC176_IC176Q07JA_2f54ad220cc71d0bb1b733b451979de4_15" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Communicate with other students about schoolwork</text>
+            </label>
+            <label key="IC176_IC176Q08JA_f8f61694d017e3946a9874cfea62e7e0_16" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Search for information on school-related activities or assignments</text>
+            </label>
+        </item>
+        <item id="IC184" its:localeFilterList="fr-FR,es-GT,en-KE,sq-XK,ky-KG,ru-KG,mk-MK,sq-MK,en-PH,pt-PT,vi-VN,es-CL,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC184_ddda1f4fc504246974e0eee96eba82e7_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <strong>‌How often do you use &lt;digital resources&gt; for the following in your &lt;school science&gt; lessons or when completing homework?‌</strong>
+                </text>
+            </label>
+            <label key="IC184_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="IC184_IC184_01_03ca1b65d43aeb6ab911a0f0c848e3b2_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Never or almost never‌</em>
+                </text>
+            </label>
+            <label key="IC184_IC184_02_cec94a77dfe020943c2d79c57b1174c1_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a year‌</em>
+                </text>
+            </label>
+            <label key="IC184_IC184_03_4b148f87400cd2308a9e993ccdb9f94f_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a month‌</em>
+                </text>
+            </label>
+            <label key="IC184_IC184_04_9194c58472cc2f1fc715ed3cabfd3c3a_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a week‌</em>
+                </text>
+            </label>
+            <label key="IC184_IC184_05_222a7414c66b83712fcb34c56bbcedb1_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Every day or almost every day‌</em>
+                </text>
+            </label>
+            <label key="IC184_IC184_06_b439b8a43e895469e1e6da50b886bbe3_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Does not apply‌</em>
+                </text>
+            </label>
+            <label key="IC184_IC184Q05_2b7c529b77263ff4b6a8e4df7bf08e75_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I use &lt;digital resources&gt; to collect data for experiments.</text>
+            </label>
+            <label key="IC184_IC184Q06_ac106c325ad405f7cade551a5d4ca7f7_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I use &lt;digital resources&gt; to interpret and analyse datagraph data.</text>
+            </label>
+            <label key="IC184_IC184Q07_bf71892aed5507f6c0d5bbd939861d07_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I use &lt;digital resources&gt; to produce data visualisations (e.g. graphs, charts, diagrams)</text>
+            </label>
+            <label key="IC184_IC184Q08_8488b1e16a5019a55b64054c89b89bac_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I use &lt;digital resources&gt; to report the findings of experiments.</text>
+            </label>
+            <label key="IC184_IC184Q03JA_de7a0263291950bc6296b71b965b8b58_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I use &lt;digital resources&gt; for simulations and modelling (e.g. &lt;GeoGebra&gt;, &lt;NetLogo&gt;), virtual laboratories (e.g. &lt;Labster&gt;).</text>
+            </label>
+            <label key="IC184_IC184Q04JA_55bf07a52610df69407d9fbc98eae67d_14" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I use &lt;digital resources&gt; for coding or algorithm activities (e.g. using &lt;Scratch©&gt;, &lt;Python®&gt; and &lt;Java®&gt;).</text>
+            </label>
+        </item>
+        <item id="IC177" its:localeFilterList="fr-FR,es-GT,en-KE,sq-XK,ky-KG,ru-KG,mk-MK,sq-MK,en-PH,pt-PT,vi-VN,es-CL,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC177_196d23e21476af8a975c327d75b8790d_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <strong>‌During a <em>typical</em> <span class="txt-underline">weekday</span>, how much time do you spend doing the following leisure activities?‌</strong>
+                </text>
+            </label>
+            <label key="IC177_59f6cafed708b723344137a1cfcd1c42_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    (Please select one response in each row.)
+                </text>
+            </label>
+            <label key="IC177_IC177_01_5efc0046ff132b691adad18981bb65c5_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌No time at all‌</em>
+                </text>
+            </label>
+            <label key="IC177_IC177_02_89cc34e1cc58fcfdac882af596cfde68_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Less than 1 hour a day ‌</em>
+                </text>
+            </label>
+            <label key="IC177_IC177_03_32f76878a39ebe4142915a2b1c6e226d_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Between 1 and 3 hours a day‌</em>
+                </text>
+            </label>
+            <label key="IC177_IC177_04_9b8bbe67c10c54d9359227410d637bc5_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌More than 3 hours and up to 5 hours a day‌</em>
+                </text>
+            </label>
+            <label key="IC177_IC177_05_06dc776ce21b5641e7182a56e296a9e7_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌More than 5 hours and up to 7 hours a day‌</em>
+                </text>
+            </label>
+            <label key="IC177_IC177_06_f905fccd2d538e3f5fdaedfa93b5a8f4_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌More than 7 hours a day‌</em>
+                </text>
+            </label>
+            <label key="IC177_IC177Q01JA_0e7baa5ea57018e0b42ea378863f4c93_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Play video-games (using my smartphone, a gaming console or an online platform or Apps)</text>
+            </label>
+            <label key="IC177_IC177Q02JA_19604fd354a7ef959dca4e4ab2f2fd95_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Browse social networks (e.g. &lt;Instagram®&gt;, &lt;TikTok®&gt;)</text>
+            </label>
+            <label key="IC177_IC177Q03JA_eb13a69ddf0277e6eb39385a4acff4ce_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Browse the Internet (excluding social networks) for fun (e.g. reading news, listening to podcasts and music or watching videos)</text>
+            </label>
+            <label key="IC177_IC177Q04JA_b720fff15979a9b96c66fd51cd6c0a9a_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Look for practical information online (e.g. find a place, book a train ticket, buy a product)</text>
+            </label>
+            <label key="IC177_IC177Q05JA_39a395a0ef8962a4469959cdb6f38e3d_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Communicate and share digital content on social networks or any communication platform (e.g. &lt;TikTok®&gt;, &lt;Instagram®&gt;, &lt;Twitter®&gt;, emails, chat)</text>
+            </label>
+            <label key="IC177_IC177Q06JA_9bed8d3b49a8763d8d0806755c987aa6_14" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Read, listen to or view informational materials to learn how to do something (e.g. tutorial, podcast)</text>
+            </label>
+            <label key="IC177_IC177Q07JA_ec5f2dcc208aa4e1b043460ac1295e69_15" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Create or edit my own digital content (pictures, videos, music, computer programs)</text>
+            </label>
+        </item>
+        <item id="IC178" its:localeFilterList="fr-FR,es-GT,en-KE,sq-XK,ky-KG,ru-KG,mk-MK,sq-MK,en-PH,pt-PT,vi-VN,es-CL,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC178_61f906ccebad9aeb1e97b57a647f49da_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <strong>‌During a <em>typical</em> <span class="txt-underline">weekend</span> day, how much time do you spend doing the following leisure activities?‌</strong>
+                </text>
+            </label>
+            <label key="IC178_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="IC178_IC178_01_5efc0046ff132b691adad18981bb65c5_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌No time at all‌</em>
+                </text>
+            </label>
+            <label key="IC178_IC178_02_89cc34e1cc58fcfdac882af596cfde68_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Less than 1 hour a day ‌</em>
+                </text>
+            </label>
+            <label key="IC178_IC178_03_32f76878a39ebe4142915a2b1c6e226d_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Between 1 and 3 hours a day‌</em>
+                </text>
+            </label>
+            <label key="IC178_IC178_04_9b8bbe67c10c54d9359227410d637bc5_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌More than 3 hours and up to 5 hours a day‌</em>
+                </text>
+            </label>
+            <label key="IC178_IC178_05_a33fb9a1d63a973452b10a31f389288c_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌More than 5 hours and up to 7 hours a day‌</em>
+                </text>
+            </label>
+            <label key="IC178_IC178_06_f905fccd2d538e3f5fdaedfa93b5a8f4_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌More than 7 hours a day‌</em>
+                </text>
+            </label>
+            <label key="IC178_IC178Q01JA_0e7baa5ea57018e0b42ea378863f4c93_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Play video-games (using my smartphone, a gaming console or an online platform or Apps)</text>
+            </label>
+            <label key="IC178_IC178Q02JA_19604fd354a7ef959dca4e4ab2f2fd95_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Browse social networks (e.g. &lt;Instagram®&gt;, &lt;TikTok®&gt;)</text>
+            </label>
+            <label key="IC178_IC178Q03JA_0d6833da9db4a0ca808dc2d7f6ad4c19_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Browse the Internet (excluding social networks) for fun (e.g. reading news, listening to podcasts and music or watching videos)</text>
+            </label>
+            <label key="IC178_IC178Q04JA_782f977cd7c0c0ce9353e4a024e75474_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Look for practical information online (e.g. find a place, book a train ticket, buy a product)</text>
+            </label>
+            <label key="IC178_IC178Q05JA_39a395a0ef8962a4469959cdb6f38e3d_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Communicate and share digital content on social networks or any communication platform (e.g. &lt;TikTok®&gt;, &lt;Instagram®&gt;, &lt;Twitter®&gt;, emails, chat)</text>
+            </label>
+            <label key="IC178_IC178Q06JA_9bed8d3b49a8763d8d0806755c987aa6_14" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Read, listen to or view informational materials to learn how to do something (e.g. tutorial, podcast)</text>
+            </label>
+            <label key="IC178_IC178Q07JA_ec5f2dcc208aa4e1b043460ac1295e69_15" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Create or edit my own digital content (pictures, videos, music, computer programs)</text>
+            </label>
+        </item>
+        <item id="IC179" its:localeFilterList="fr-FR,es-GT,en-KE,sq-XK,ky-KG,ru-KG,mk-MK,sq-MK,en-PH,pt-PT,vi-VN,es-CL,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC179_745f3bdf1196a8ac8d725ec53acabc86_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>The following statements are about <em>your views on school rules regarding &lt;digital resources&gt;</em>.</text>
+            </label>
+            <label key="IC179_5223e9c704b7e74a83d6e624f5770fb4_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <strong>‌To what extent do you agree or disagree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="IC179_d9b40c077d5221a1764edea225c1d574_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="IC179_IC179_01_b168d50ede806ad88ac4e41cb610f1b5_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="IC179_IC179_02_bf20ef8a8c20fa1122ac54a94fe1e1a6_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="IC179_IC179_03_9bd1cc32a010e67f471f0992668129e4_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="IC179_IC179_04_6d39d965c062fa23ba1715ff225e59e9_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="IC179_IC179Q01JA_b3eec4d60ebd8c1b9e4d4ad91014dfe0_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Students should not be allowed to bring mobile phones to class.</text>
+            </label>
+            <label key="IC179_IC179Q02JA_96cc0ef170fa8f855b670366cd3cf22d_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Students should not be allowed to bring their own laptop (or tablet device) to class.</text>
+            </label>
+            <label key="IC179_IC179Q03JA_b8c5e6787b8819ca57916d630fa7d74e_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Students should collaborate with teachers to decide on the rules regarding the use of digital devices during lessons.</text>
+            </label>
+            <label key="IC179_IC179Q04JA_0284f5bd71e1af3e5bc14e4c6fb80f35_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>The school should set up filters to prevent students from going on social media.</text>
+            </label>
+            <label key="IC179_IC179Q05JA_285cd2f9ddbc80d88062118fd7289e0b_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>The school should set up filters to prevent students from playing games online.</text>
+            </label>
+            <label key="IC179_IC179Q06JA_450479ca9728e02ec29897fd6c58e24f_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Teachers should monitor what students do on their laptop or tablet device.</text>
+            </label>
+        </item>
+        <item id="IC180" its:localeFilterList="fr-FR,es-GT,en-KE,sq-XK,ky-KG,ru-KG,mk-MK,sq-MK,en-PH,pt-PT,vi-VN,es-CL,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC180_bb2f12b4b5f978bd3e729b2cd2a7dcce_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>The next statements are about the quality, credibility and accuracy of information online.</text>
+            </label>
+            <label key="IC180_5223e9c704b7e74a83d6e624f5770fb4_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <strong>‌To what extent do you agree or disagree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="IC180_59f6cafed708b723344137a1cfcd1c42_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    (Please select one response in each row.)
+                </text>
+            </label>
+            <label key="IC180_IC180_01_b168d50ede806ad88ac4e41cb610f1b5_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="IC180_IC180_02_bf20ef8a8c20fa1122ac54a94fe1e1a6_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="IC180_IC180_03_9bd1cc32a010e67f471f0992668129e4_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="IC180_IC180_04_6d39d965c062fa23ba1715ff225e59e9_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="IC180_IC180Q01JA_debbbd63abd28b41eebccd44005b3bb4_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I trust what I read online.</text>
+            </label>
+            <label key="IC180_IC180Q02JA_200ffec6d23edd0c36dbbd5512e6838d_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>When searching for information online I compare different sources.</text>
+            </label>
+            <label key="IC180_IC180Q03JA_52098de2be41f98439cd84d3b416e182_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I check the accuracy of online information before sharing it on social networks.</text>
+            </label>
+            <label key="IC180_IC180Q04JA_b2fce12bfd1316b153050003573b995a_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I discuss the accuracy of online information with my teachers or in class.</text>
+            </label>
+            <label key="IC180_IC180Q05JA_75be6c756765e1e92c71a0a36c6295a5_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I discuss the accuracy of online information with friends or other students.</text>
+            </label>
+            <label key="IC180_IC180Q06JA_072ad8cff5fe12f9f3481b091e2177d8_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I discuss the accuracy of online information with my parents (or family).</text>
+            </label>
+            <label key="IC180_IC180Q07JA_81d21f044d932eb4a38b4a64de2c44c8_14" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I try to flag wrong information when I encounter it online.</text>
+            </label>
+            <label key="IC180_IC180Q08JA_41bf7c24665bd5798d19e0c806e697a4_15" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I share made-up information on social networks without flagging its inaccuracy.</text>
+            </label>
+        </item>
+        <item id="IC181" its:localeFilterList="fr-FR,es-GT,en-KE,sq-XK,ky-KG,ru-KG,mk-MK,sq-MK,en-PH,pt-PT,vi-VN,es-CL,en-SG,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC181_e694f0e9651aaf93964345a204d10c8c_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>The following question is about your experience when browsing online content or using social media.</text>
+            </label>
+            <label key="IC181_e305bae71e4702818c26bac2d7060548_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <strong>‌How upset were you the last time the following situations occurred?‌</strong>
+                </text>
+            </label>
+            <label key="IC181_d9b40c077d5221a1764edea225c1d574_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="IC181_IC181_01_f915502e44fd5ad4feff86b4c8a620c3_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌This did not happen to me‌</em>
+                </text>
+            </label>
+            <label key="IC181_IC181_02_e63869225f137743039d3387b720a28b_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Not at all upset‌</em>
+                </text>
+            </label>
+            <label key="IC181_IC181_03_48e0ecd326a6d8cf34b4c6c455c27ec6_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌A little upset‌</em>
+                </text>
+            </label>
+            <label key="IC181_IC181_04_8e2c79e1fb15657ced0e2ae17a7aa364_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Quite upset‌</em>
+                </text>
+            </label>
+            <label key="IC181_IC181_05_14756bde882d06b05eb4d611742f3376_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Very upset‌</em>
+                </text>
+            </label>
+            <label key="IC181_IC181Q01JA_12841cf1ff56215992614a2d24d48cc7_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Encountering content online that was inappropriate for my age</text>
+            </label>
+            <label key="IC181_IC181Q02JA_8e7c7c7408cca53ed4b22e64acbf733a_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Encountering discriminatory content online (e.g. about race, gender, sexual orientation or physical appearance)</text>
+            </label>
+            <label key="IC181_IC181Q03JA_f1c24c5d43a81a7daa0df3476df12a03_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Receiving unkind, vulgar or offending messages, comments or videos</text>
+            </label>
+            <label key="IC181_IC181Q05J_5b0fdd077f6576f29ab3132f16655a82_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Encountering unkind, vulgar or offending messages, comments or videos about someone I know</text>
+            </label>
+            <label key="IC181_IC181Q04JA_3aac2cfb513881ffe962af85710d5439_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>Information about me was publicly displayed online without my consent</text>
+            </label>
+        </item>
+        <item id="IC182" its:localeFilterList="fr-FR,es-GT,en-KE,sq-XK,ky-KG,ru-KG,mk-MK,sq-MK,en-PH,pt-PT,vi-VN,es-CL,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC182_5223e9c704b7e74a83d6e624f5770fb4_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <strong>‌To what extent do you agree or disagree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="IC182_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="IC182_IC182_01_b168d50ede806ad88ac4e41cb610f1b5_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="IC182_IC182_02_bf20ef8a8c20fa1122ac54a94fe1e1a6_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="IC182_IC182_03_9bd1cc32a010e67f471f0992668129e4_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="IC182_IC182_04_6d39d965c062fa23ba1715ff225e59e9_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="IC182_IC182Q01JA_6ec2bcc5f108accb56737262fcb873ac_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I am interested in learning more about &lt;digital resources&gt;.</text>
+            </label>
+            <label key="IC182_IC182Q02JA_7186ec0424b6721f5a9d53d9f7e3f32e_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I am interested in learning &lt;computer programming&gt;.</text>
+            </label>
+            <label key="IC182_IC182Q03JA_6236636a9c0099817007ced0d082b50c_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I am interested in learning about &lt;digital resources&gt; because it could be useful in a job.</text>
+            </label>
+            <label key="IC182_IC182Q04_a908036e42a711b4f0fd03219cd7e7a4_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I like using &lt;digital resources&gt; to find new ways to do things.</text>
+            </label>
+            <label key="IC182_IC182Q05_3f2e18dccdf6ae7399705054b116735a_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I am interested in learning about &lt;machine learning&gt; and &lt;artificial intelligence&gt;. </text>
+            </label>
+        </item>
+        <item id="IC400" its:localeFilterList="fr-FR,es-GT,en-KE,sq-XK,ky-KG,ru-KG,mk-MK,sq-MK,en-PH,pt-PT,vi-VN,es-CL,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC400_14c282b2d3d82d703234f530dfc2674e_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <strong>‌Thinking about your experience with &lt;digital resources&gt;: to what extent do you disagree or agree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="IC400_2c7b49cb963d9f2c96c43e9b3d647e22_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please think of different kinds of digital devices such as desktop computers, portable laptops, notebooks, smartphones, tablet computers, cell phones without internet access, game consoles, or internet-connected television.)‌</em>
+                </text>
+            </label>
+            <label key="IC400_ad4ef30c6d6302052d7a6dd5f5239426_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="IC400_IC400_01_b168d50ede806ad88ac4e41cb610f1b5_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="IC400_IC400_02_bf20ef8a8c20fa1122ac54a94fe1e1a6_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="IC400_IC400_03_9bd1cc32a010e67f471f0992668129e4_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="IC400_IC400_04_6d39d965c062fa23ba1715ff225e59e9_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="IC400_IC400Q01NA_a6e44336af2f40be2acf63219c615a51_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I forget about time when I’m using digital devices.</text>
+            </label>
+            <label key="IC400_IC400Q02NA_ada4709d15afa58af5a8efddbceb834f_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>The Internet is a great resource for obtaining information I am interested in (e.g., news, sports, dictionary).</text>
+            </label>
+            <label key="IC400_IC400Q03NA_0c6ad8d65f59050653dbee43ee77c234_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>It is very useful to have social networks on the Internet.</text>
+            </label>
+            <label key="IC400_IC400Q04NA_c84ce605b940513d4d40b22258881c1a_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I am really excited discovering new digital devices or applications.</text>
+            </label>
+            <label key="IC400_IC400Q05NA_16138b1b53f94dec86ff605d00fb5c5d_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I really feel bad if no Internet connection is possible.</text>
+            </label>
+            <label key="IC400_IC400Q06NA_ab570ffcc4265675a3462ed085763050_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I like using digital devices.</text>
+            </label>
+        </item>
+        <item id="IC401" its:localeFilterList="fr-FR,es-GT,en-KE,sq-XK,ky-KG,ru-KG,mk-MK,sq-MK,en-PH,pt-PT,vi-VN,es-CL,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC401_14c282b2d3d82d703234f530dfc2674e_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <strong>‌Thinking about your experience with &lt;digital resources&gt;: to what extent do you disagree or agree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="IC401_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="IC401_IC401_01_b168d50ede806ad88ac4e41cb610f1b5_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="IC401_IC401_02_bf20ef8a8c20fa1122ac54a94fe1e1a6_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="IC401_IC401_03_9bd1cc32a010e67f471f0992668129e4_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="IC401_IC401_04_6d39d965c062fa23ba1715ff225e59e9_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="IC401_IC401Q01NA_a2929209b259efd384d26726ef3cbe35_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>To learn something new about digital devices, I like to talk about them with my friends.</text>
+            </label>
+            <label key="IC401_IC401Q02NA_f8f842e9927e054c948fc1d090d2135b_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I like to exchange solutions to problems with digital devices with others on the Internet.</text>
+            </label>
+            <label key="IC401_IC401Q04NA_6bf8f509bc92d7a19991b82c391f04c7_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I like to meet friends and play computer and video games with them.</text>
+            </label>
+            <label key="IC401_IC401Q05NA_4af77064d11b105d8fe3e0946344cc84_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I like to share information about digital devices with my friends.</text>
+            </label>
+            <label key="IC401_IC401Q07NA_4bcb83ac5cb6ded5b2666cf2a86ff184_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,ja-JP,ms-MY,en-MY,es-PA,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,es-UY,en-US" its:localeFilterType="include">
+                <text>I learn a lot about digital media by discussing with my friends and relatives.</text>
+            </label>
+        </item>
+        <item id="IC800URY" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,pt-PT,vi-VN,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,es-CL,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,en-US,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC800URY_62a30efe3cc096c63cca2de91ec81965_1" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>
+                    <strong>‌What is the status of your Ceibal laptop at the moment?‌</strong>
+                </text>
+            </label>
+            <label key="IC800URY_59442910e9b4287766c85dfb1019d7b5_2" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>
+                    <em>‌(Select one answer)‌</em>
+                </text>
+            </label>
+            <label key="IC800URY_IC800URYQ0101_90a1e7e41a87d902be4ea073ebc35d2c_3" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>I have not received a Ceibal laptop (Magallanes, Positivo, Chrome, etc.)</text>
+            </label>
+            <label key="IC800URY_IC800URYQ0102_83bbf7129cacd63460094720ed35b8c5_4" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>It runs smoothly</text>
+            </label>
+            <label key="IC800URY_IC800URYQ0103_fc6434dccb3dd5881f57aec207067326_5" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>It works although something is broken</text>
+            </label>
+            <label key="IC800URY_IC800URYQ0104_44b09ae14ba7ff7c6139c59b4a543930_6" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>It is broken and does not work/is locked</text>
+            </label>
+            <label key="IC800URY_IC800URYQ0105_4ae1b2e792ad941b4f3aee49abb81c59_7" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>I don’t know where it is/I lost it</text>
+            </label>
+        </item>
+        <item id="IC801URY" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,pt-PT,vi-VN,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,es-CL,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,en-US,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC801URY_5b7f62b623f4d8ac39a4ea1e36f74ae7_1" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>
+                    <strong>‌Thinking about your experience with digital devices: To what extent do you agree or disagree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="IC801URY_eeed24f1a040ab9036a2cf03224a2e73_2" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>
+                    <em>‌(Think about the different types of digital devices, such as desktop computers, laptops, smartphones, tablets, mobile phones without an Internet connection, game consoles, or television connected to the Internet.)‌</em>
+                </text>
+            </label>
+            <label key="IC801URY_71977ee11d0926c54bc6623b44b28045_3" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>
+                    <em>‌(Select one answer in each row.)‌</em>
+                </text>
+            </label>
+            <label key="IC801URY_IC801URY_01_b168d50ede806ad88ac4e41cb610f1b5_4" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="IC801URY_IC801URY_02_bf20ef8a8c20fa1122ac54a94fe1e1a6_5" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="IC801URY_IC801URY_03_9bd1cc32a010e67f471f0992668129e4_6" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="IC801URY_IC801URY_04_6d39d965c062fa23ba1715ff225e59e9_7" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="IC801URY_IC801URYQ01_3f14a59190ff8f01818870a816125f07_8" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>I find the classes in which we use digital devices more interesting.</text>
+            </label>
+            <label key="IC801URY_IC801URYQ02_34810ac8bb07bc9a46ac340484531e2d_9" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>Teachers promote the use of digital devices in the classroom.</text>
+            </label>
+            <label key="IC801URY_IC801URYQ03_fd60ef6b364e72a29d4e4ca6814b65c2_10" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>My school has clear rules about the use of digital devices or the Internet during classes.</text>
+            </label>
+            <label key="IC801URY_IC801URYQ04_87cd66b04ce0324245540d000d8e90cf_11" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>In my school they talked to us about what to do when faced with episodes of violence or harassment on the internet or social networks.</text>
+            </label>
+            <label key="IC801URY_IC801URYQ05_904fedb3d6499f08b9e928a9673d747a_12" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>At my school they talked to us about how to make safer use of the internet (e.g. privacy issues, viruses, etc.).</text>
+            </label>
+            <label key="IC801URY_IC801URYQ06_6b6fee68436d942d1ee70e2b988475fe_13" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>I have a cell phone that allows me to use the internet anywhere, even if I am not connected to WiFi.</text>
+            </label>
+            <label key="IC801URY_IC801URYQ07_566df180c52e8d179b31a07c150c4428_14" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>Outside my school or home, I have to limit my use of the internet.</text>
+            </label>
+        </item>
+        <item id="IC802URY" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,pt-PT,vi-VN,ar-AE,en-AE,es-AR,en-AU,de-AT,fr-BE,nl-BE,bg-BG,ms-BN,en-BN,de-CH,fr-CH,it-CH,es-CL,de-DE,ca-ES,es-ES,eu-ES,gl-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hu-HU,en-IE,ar-IL,he-IL,it-IT,ar-JO,ko-KR,en-LB,fr-LB,de-LU,fr-LU,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,en-MT,mt-MT,mn-MN,kk-MN,nl-NL,en-NZ,pl-PL,ar-PS,en-PS,ar-QA,en-QA,en-GB-scotland,ro-RO,en-SG,sl-SI,sl-SI-x-isced2,zh-TW,th-TH,tr-TR,uk-UA,en-US,sq-AL,hy-AM,pt-BR,en-CA,fr-CA,es-CO,es-CR,cs-CZ,da-DK,es-EC,ar-EG,en-EG,hr-HR,id-ID,kk-KZ,ru-KZ,lt-LT,lv-LV,ro-MD,ru-MD,es-MX,cnr-ME,nb-NO,es-PE,es-PY,az-QZ,ru-QZ,el-CY,en-CY,en-GB,ar-SA,es-SV,sr-RS,sk-SK,en-SE,sv-SE,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="IC802URY_3b5ff4c770b4e056039f0d8b2dea97b6_1" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>
+                    <strong>‌During the last 12 months, how often have the following situations happened to you in class?‌</strong>
+                </text>
+            </label>
+            <label key="IC802URY_eeed24f1a040ab9036a2cf03224a2e73_2" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>
+                    <em>‌(Think about the different types of digital devices, such as desktop computers, laptops, smartphones, tablets, mobile phones without an Internet connection, game consoles, or television connected to the Internet.)‌</em>
+                </text>
+            </label>
+            <label key="IC802URY_71977ee11d0926c54bc6623b44b28045_3" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>
+                    <em>‌(Select one answer in each row.)‌</em>
+                </text>
+            </label>
+            <label key="IC802URY_IC802URY_01_82bb38b995bd242a23d5cb7b9f177f69_4" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>
+                    <em>‌It never happened to me‌</em>
+                </text>
+            </label>
+            <label key="IC802URY_IC802URY_02_2db39c3e64b321e5dd2f7e594025f128_5" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>
+                    <em>‌It happened to me once‌</em>
+                </text>
+            </label>
+            <label key="IC802URY_IC802URY_03_24bd7ead4ae1c783bef824df926134ea_6" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>
+                    <em>‌It happened to me several times‌</em>
+                </text>
+            </label>
+            <label key="IC802URY_IC802URYQ01_6a3404c9bb57cfc7051b368b23cab7bb_7" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>I was allowed to use the digital devices during a briefing or test</text>
+            </label>
+            <label key="IC802URY_IC802URYQ02_b6df124de69507d232af6c7c62326e5a_8" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>I was asked to turn off digital devices during the hours I am at the school.</text>
+            </label>
+            <label key="IC802URY_IC802URYQ03_fb2bc8f89d9297e88cc83a94c01c8bfa_9" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>A digital device was temporarily removed and later returned to me.</text>
+            </label>
+            <label key="IC802URY_IC802URYQ04_c52749870e40bbf339b6b2493d42eb96_10" its:localeFilterList="es-UY" its:localeFilterType="include">
+                <text>A digital device was temporarily taken away from me and a family member had to come and pick it up.</text>
+            </label>
+        </item>
+    </items>
+</file>

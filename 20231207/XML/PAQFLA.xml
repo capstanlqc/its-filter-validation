@@ -1,0 +1,589 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" its:localeFilterList="fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,nl-NL,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,bg-BG,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,da-DK,es-EC,ar-EG,en-EG,eu-ES,ca-ES,gl-ES,es-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hr-HR,hu-HU,id-ID,en-IE,ar-IL,he-IL,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,es-PE,pl-PL,es-PY,ar-PS,en-PS,ar-QA,en-QA,az-QZ,ru-QZ,el-CY,en-CY,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,en-SE,sv-SE,th-TH,tr-TR,uk-UA,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+    <sharedstimuli></sharedstimuli>
+    <items>
+        <item id="PA129FL" its:localeFilterList="fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,nl-NL,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,bg-BG,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,da-DK,es-EC,ar-EG,en-EG,eu-ES,ca-ES,gl-ES,es-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hr-HR,hu-HU,id-ID,en-IE,ar-IL,he-IL,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,es-PE,pl-PL,es-PY,ar-PS,en-PS,ar-QA,en-QA,az-QZ,ru-QZ,el-CY,en-CY,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,en-SE,sv-SE,th-TH,tr-TR,uk-UA,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="PA129FL_6961eba8c2b65bfeb095bfbdfcd5e9a8_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <strong>‌Which languages do the people you live with speak at home?‌</strong>
+                </text>
+            </label>
+            <label key="PA129FL_0e018d5ee0d58a1114eba66a3b401110_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select all that apply.)‌</em>
+                </text>
+            </label>
+            <label key="PA129FL_PA129FLQ01_cf9719e2bd5dd62b791e1c8df459f3b2_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>&lt;PISA reading test language&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLQ02_a5dc89ba3579198905dd3037044ff1ad_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>&lt;English²&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLQ03_3b6b88b2f639bbf98381a2aea774e129_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>&lt;Language 1&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLQ04_a6a3c815e8e0930c1d7bc1094352cc67_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>&lt;Language 2&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLQ05_771bd4b3f840d29f4574850d645e1d8a_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>&lt;…etc.&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN07_b28e055a52c174e0c6bdd21af88f6dec_8" its:localeFilterList="nl-BE,de-DE,it-IT" its:localeFilterType="include">
+                <text>&lt;Language 704&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN08_b8a92a3b16d231a6d9cad375cb920ee6_9" its:localeFilterList="nl-BE,de-DE,it-IT" its:localeFilterType="include">
+                <text>&lt;Language 705&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN09_296b5d710c8736edcfffc54ff74d251e_10" its:localeFilterList="nl-BE,de-DE" its:localeFilterType="include">
+                <text>&lt;Language 706&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN10_57e4f8d5779604f9d8cbf39cd084002a_11" its:localeFilterList="nl-BE,de-DE" its:localeFilterType="include">
+                <text>&lt;Language 707&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN11_7e2a0c2d76073b50bdfb5c71d18d2a0b_12" its:localeFilterList="nl-BE,de-DE" its:localeFilterType="include">
+                <text>&lt;Language 708&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN12_4af3c23c24be6dcccfa68fccc55e0638_13" its:localeFilterList="nl-BE,de-DE" its:localeFilterType="include">
+                <text>&lt;Language 709&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN13_4945a742ed97c8362afc5ede6b5c7b80_14" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 710&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN14_2f48a944b1ea313bfff176861bb4f440_15" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 711&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN15_329bcaa65331503679540d7af6ddef17_16" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 712&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN16_9df9d588f6b6587789fabe2087c311c2_17" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 713&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN17_96801579f0912a3b2495fcd6ed18d56a_18" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 714&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN18_81adeeb57229449597e94348bc3d9321_19" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 715&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN19_ec9a02e5c90b6062a068cfe051bfab4b_20" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 716&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN20_27d209f06dd3bcb68308be52fdd22718_21" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 717&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN21_10859e99e2410241809786a6acfe87e2_22" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 718&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLN22_7af8cab421efe508b47b8a47581817cf_23" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 719&gt;</text>
+            </label>
+            <label key="PA129FL_PA129FLQ06_7fc17ec927a73775fd1712498f4892d9_24" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Other language</text>
+            </label>
+        </item>
+        <item id="PA222FL" its:localeFilterList="fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,nl-NL,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,bg-BG,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,da-DK,es-EC,ar-EG,en-EG,eu-ES,ca-ES,gl-ES,es-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hr-HR,hu-HU,id-ID,en-IE,ar-IL,he-IL,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,es-PE,pl-PL,es-PY,ar-PS,en-PS,ar-QA,en-QA,az-QZ,ru-QZ,el-CY,en-CY,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,en-SE,sv-SE,th-TH,tr-TR,uk-UA,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="PA222FL_bd81bd0b822c34b5209d0b1bc27d58ac_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <strong>‌How many years did you study &lt;English²&gt; in school?‌</strong>
+                </text>
+            </label>
+            <label key="PA222FL_fd734c2aad89ead04016e04d68a5bbf7_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌(Including years at the &lt;ISCED 1 level&gt;, &lt;ISCED 2 level&gt; and &lt;ISCED 3 level&gt;; but not the years at &lt;ISCED 4-8 level&gt;.)‌</em>
+                </text>
+            </label>
+            <label key="PA222FL_795093b60d321f8a3ce2c692010cfa5a_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="PA222FL_PA222FLQ0101_accde22716e489078ee097edb602c73e_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>I did not study &lt;English²&gt; in school</text>
+            </label>
+            <label key="PA222FL_PA222FLQ0102_554da246d497995729f1c24ad3ad9b3e_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>1 year or less</text>
+            </label>
+            <label key="PA222FL_PA222FLQ0103_27154a65bdf865dfcedd60ed55758b2e_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>From 2 to 5 years</text>
+            </label>
+            <label key="PA222FL_PA222FLQ0104_42e92ee2f414e65400d04aa80b7f9c33_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>From 6 to 10 years</text>
+            </label>
+            <label key="PA222FL_PA222FLQ0105_dc7038be23a47e5370b792543c280ca2_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>More than 10 years</text>
+            </label>
+        </item>
+        <item id="PA223FL" its:localeFilterList="fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,nl-NL,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,bg-BG,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,da-DK,es-EC,ar-EG,en-EG,eu-ES,ca-ES,gl-ES,es-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hr-HR,hu-HU,id-ID,en-IE,ar-IL,he-IL,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,es-PE,pl-PL,es-PY,ar-PS,en-PS,ar-QA,en-QA,az-QZ,ru-QZ,el-CY,en-CY,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,en-SE,sv-SE,th-TH,tr-TR,uk-UA,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="PA223FL_a71d7bbdac6f6fae5f8467291e12bb48_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <strong>‌Have you learnt &lt;English²&gt; outside of &lt;primary and secondary education&gt; in the following ways?‌</strong>
+                </text>
+            </label>
+            <label key="PA223FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="PA223FL_PA223FL_01_51e6674c5a2b9bbcd2ebcb26119d17ca_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Yes‌</em>
+                </text>
+            </label>
+            <label key="PA223FL_PA223FL_02_568f834c30c3c51b372d03d2377fe864_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌No‌</em>
+                </text>
+            </label>
+            <label key="PA223FL_PA223FLQ01_4762a3d300668e9b745fa9f239c56ccb_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>At an &lt;adult education centre&gt;</text>
+            </label>
+            <label key="PA223FL_PA223FLQ02_78ba545e675b28119d2ce4552b98725f_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>At a tertiary education institution (e.g. &lt;university; add country-specific examples&gt;)</text>
+            </label>
+            <label key="PA223FL_PA223FLQ03_66bfb39d7d8587e7704b5ac3afaf291f_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Through private tutoring</text>
+            </label>
+            <label key="PA223FL_PA223FLQ05_f967f1ff2a4c7b3fc94b79782c48a6d1_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>By using &lt;English²&gt; in my daily life (for example conversations, watching movies)</text>
+            </label>
+            <label key="PA223FL_PA223FLQ06_eacd5fcb5459dee624ab13f9ccb015aa_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>By staying abroad</text>
+            </label>
+        </item>
+        <item id="PA121FL" its:localeFilterList="fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,nl-NL,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,bg-BG,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,da-DK,es-EC,ar-EG,en-EG,eu-ES,ca-ES,gl-ES,es-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hr-HR,hu-HU,id-ID,en-IE,ar-IL,he-IL,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,es-PE,pl-PL,es-PY,ar-PS,en-PS,ar-QA,en-QA,az-QZ,ru-QZ,el-CY,en-CY,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,en-SE,sv-SE,th-TH,tr-TR,uk-UA,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="PA121FL_ede36295b954e28527c7406c3f176467_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <strong>‌How often do you come into contact with &lt;English²&gt; in the following ways?‌</strong>
+                </text>
+            </label>
+            <label key="PA121FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="PA121FL_PA121FL_01_03ca1b65d43aeb6ab911a0f0c848e3b2_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Never or almost never‌</em>
+                </text>
+            </label>
+            <label key="PA121FL_PA121FL_02_cec94a77dfe020943c2d79c57b1174c1_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a year‌</em>
+                </text>
+            </label>
+            <label key="PA121FL_PA121FL_03_4b148f87400cd2308a9e993ccdb9f94f_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a month‌</em>
+                </text>
+            </label>
+            <label key="PA121FL_PA121FL_04_9194c58472cc2f1fc715ed3cabfd3c3a_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a week‌</em>
+                </text>
+            </label>
+            <label key="PA121FL_PA121FL_05_222a7414c66b83712fcb34c56bbcedb1_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Every day or almost every day‌</em>
+                </text>
+            </label>
+            <label key="PA121FL_PA121FLQ01_801f908f095154d74ca911d302b97449_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Communicating with people in the area where I live (e.g. friends, relatives, acquaintances)</text>
+            </label>
+            <label key="PA121FL_PA121FLQ02_713650c1c0fabcbed1b8f4280af4bf8b_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Communicating with people living far away (e.g. friends, relatives, acquaintances)</text>
+            </label>
+            <label key="PA121FL_PA121FLQ03_721955f25c8d3696b5cb1a01f9ff3899_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Communicating with tourists who visit the place where I live</text>
+            </label>
+            <label key="PA121FL_PA121FLQ04_9ba4855e56f4e2889acd87e9892d0cb8_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Communicating with colleagues</text>
+            </label>
+            <label key="PA121FL_PA121FLQ05_f1e66a31b362d7186efab56259529291_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Communicating while travelling</text>
+            </label>
+            <label key="PA121FL_PA121FLQ06_b9567eed43623f49775cad547a362821_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Through spoken media (e.g. television, movies, radio)</text>
+            </label>
+            <label key="PA121FL_PA121FLQ07_620d7beb2334397612504b2351495090_14" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Through written media (e.g. books, websites, social media)</text>
+            </label>
+            <label key="PA121FL_PA121FLQ08_2205b349f8e6f737153f65ffff25179b_15" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Through self-instruction (e.g. learning applications, online courses)</text>
+            </label>
+        </item>
+        <item id="PA230FL" its:localeFilterList="fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,nl-NL,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,bg-BG,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,da-DK,es-EC,ar-EG,en-EG,eu-ES,ca-ES,gl-ES,es-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hr-HR,hu-HU,id-ID,en-IE,ar-IL,he-IL,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,es-PE,pl-PL,es-PY,ar-PS,en-PS,ar-QA,en-QA,az-QZ,ru-QZ,el-CY,en-CY,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,en-SE,sv-SE,th-TH,tr-TR,uk-UA,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="PA230FL_675308736be73c9b494f6f30f7b7c2cf_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <strong>‌How often do you or someone else living in your home do the following things with your child?‌</strong>
+                </text>
+            </label>
+            <label key="PA230FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="PA230FL_PA230FL_01_03ca1b65d43aeb6ab911a0f0c848e3b2_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Never or almost never‌</em>
+                </text>
+            </label>
+            <label key="PA230FL_PA230FL_02_cec94a77dfe020943c2d79c57b1174c1_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a year‌</em>
+                </text>
+            </label>
+            <label key="PA230FL_PA230FL_03_4b148f87400cd2308a9e993ccdb9f94f_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a month‌</em>
+                </text>
+            </label>
+            <label key="PA230FL_PA230FL_04_9194c58472cc2f1fc715ed3cabfd3c3a_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a week‌</em>
+                </text>
+            </label>
+            <label key="PA230FL_PA230FL_05_222a7414c66b83712fcb34c56bbcedb1_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Every day or almost every day‌</em>
+                </text>
+            </label>
+            <label key="PA230FL_PA230FLQ01_5978752cd267196b8431091747b3e355_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Help my child with &lt;English¹&gt; homework</text>
+            </label>
+            <label key="PA230FL_PA230FLQ03_e724d9e016161b68bcce92829c553b19_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Listen to songs in &lt;English²&gt; with my child</text>
+            </label>
+            <label key="PA230FL_PA230FLQ04_4da3b53aaf4ad267005c4f943581c280_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Watch movies, programmes or online videos in &lt;English²&gt; with my child (e.g. on television, online streaming services, &lt;YouTube®&gt;)</text>
+            </label>
+            <label key="PA230FL_PA230FLQ08_1c47f65af3a1a78011c140a3f5064140_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Play video games in &lt;English²&gt; with my child</text>
+            </label>
+            <label key="PA230FL_PA230FLQ10_ef12af63dbc044825fcab27585b180fc_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Talk to my child in &lt;English²&gt;</text>
+            </label>
+            <label key="PA230FL_PA230FLQ11_ac560fa47d7acd42cde807553079181f_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Help my child prepare for &lt;English¹&gt; school tests</text>
+            </label>
+            <label key="PA230FL_PA230FLQ12_5dc16fd42f5026fd2086ab5b78535ec9_14" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Suggest some books for my child to read in &lt;English²&gt;</text>
+            </label>
+            <label key="PA230FL_PA230FLQ13_0678e502f32d3cd797875d839e060597_15" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Watch something in &lt;English²&gt; on a screen (with or without subtitles) together with my child</text>
+            </label>
+        </item>
+        <item id="PA240FL" its:localeFilterList="fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,nl-NL,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,bg-BG,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,da-DK,es-EC,ar-EG,en-EG,eu-ES,ca-ES,gl-ES,es-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hr-HR,hu-HU,id-ID,en-IE,ar-IL,he-IL,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,es-PE,pl-PL,es-PY,ar-PS,en-PS,ar-QA,en-QA,az-QZ,ru-QZ,el-CY,en-CY,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,en-SE,sv-SE,th-TH,tr-TR,uk-UA,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="PA240FL_dae0cb46e52d6150a83d2bc436a2583d_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <strong>‌How often has your child participated in the following activities in the past five years?‌</strong>
+                </text>
+            </label>
+            <label key="PA240FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="PA240FL_PA240FL_01_c8966fa2072a886db8725fd4b6a245d8_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Never‌</em>
+                </text>
+            </label>
+            <label key="PA240FL_PA240FL_02_5b27a97bd161c4cabf968e9202fffe26_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Once or twice‌</em>
+                </text>
+            </label>
+            <label key="PA240FL_PA240FL_03_155c8e11bf9159c518d74ee72ae040c2_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Three to four times‌</em>
+                </text>
+            </label>
+            <label key="PA240FL_PA240FL_04_586ece330b58923f87e6596737266947_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Five to six times‌</em>
+                </text>
+            </label>
+            <label key="PA240FL_PA240FL_05_025647c32db667e57e02821f649cbbc4_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌More than six times‌</em>
+                </text>
+            </label>
+            <label key="PA240FL_PA240FLQ01_fc38c3637e2359a75ca4cb751ad1bd32_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>A school trip to a non-&lt;PISA reading test language&gt; speaking country</text>
+            </label>
+            <label key="PA240FL_PA240FLQ02_8845d6dd4ed5f6b8dfefda6687e965b8_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>An organised visit to schools or families in a non-&lt;PISA reading test language&gt; speaking country</text>
+            </label>
+            <label key="PA240FL_PA240FLQ03_f2320e20eb5610b988900af6384dd516_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>A family trip to a non-&lt;PISA reading test language&gt; speaking country</text>
+            </label>
+            <label key="PA240FL_PA240FLQ04_22027be02a9481129fb9abc942cddedd_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>A trip to visit your family in a non-&lt;PISA reading test language&gt; speaking country</text>
+            </label>
+        </item>
+        <item id="PA236FL" its:localeFilterList="fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,nl-NL,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,bg-BG,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,da-DK,es-EC,ar-EG,en-EG,eu-ES,ca-ES,gl-ES,es-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hr-HR,hu-HU,id-ID,en-IE,ar-IL,he-IL,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,es-PE,pl-PL,es-PY,ar-PS,en-PS,ar-QA,en-QA,az-QZ,ru-QZ,el-CY,en-CY,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,en-SE,sv-SE,th-TH,tr-TR,uk-UA,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="PA236FL_5223e9c704b7e74a83d6e624f5770fb4_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <strong>‌To what extent do you agree or disagree with the following statements?‌</strong>
+                </text>
+            </label>
+            <label key="PA236FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="PA236FL_PA236FL_01_b168d50ede806ad88ac4e41cb610f1b5_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly disagree‌</em>
+                </text>
+            </label>
+            <label key="PA236FL_PA236FL_02_bf20ef8a8c20fa1122ac54a94fe1e1a6_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="PA236FL_PA236FL_03_9bd1cc32a010e67f471f0992668129e4_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="PA236FL_PA236FL_04_6d39d965c062fa23ba1715ff225e59e9_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="PA236FL_PA236FL_05_cb3d93c3d954dc75d9a4442f5285acb6_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Don’t know / not applicable‌</em>
+                </text>
+            </label>
+            <label key="PA236FL_PA236FLQ01_f94b5edcb280cf430c37d675a686afcf_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>My child’s &lt;English¹&gt; school teacher is responsive to students’ needs.</text>
+            </label>
+            <label key="PA236FL_PA236FLQ02_cbd451da81c805fb397a5a55c32f024d_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>My child’s &lt;English¹&gt; school teacher is dedicated.</text>
+            </label>
+            <label key="PA236FL_PA236FLQ03_b27ca65543974049881dd4d166a22da9_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>I am satisfied with how &lt;English¹&gt; is taught at my child’s school.</text>
+            </label>
+            <label key="PA236FL_PA236FLQ04_f631d387824cb69218a0076f6ac41db2_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>My child’s school is effective in helping my child make progress in &lt;English²&gt;.</text>
+            </label>
+            <label key="PA236FL_PA236FLQ05_75bc0270dd913a527fdfec6659d0c0c0_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>My child’s progress in &lt;English¹&gt; lessons is carefully monitored by the school.</text>
+            </label>
+            <label key="PA236FL_PA236FLQ06_52f63bc22fa53e51b95af0ee713e5ab3_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>I am satisfied with the amount of time my child spends learning &lt;English¹&gt; at school.</text>
+            </label>
+            <label key="PA236FL_PA236FLQ07_fd1baae3736e3d3be0a50da58d6c677e_14" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>My child’s &lt;English¹&gt; school teacher pays attention to my child’s progress.</text>
+            </label>
+            <label key="PA236FL_PA236FLQ08_03989bc92912eff828d8ee5d8d02c8be_15" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>I am satisfied with the quality of &lt;English¹&gt; lessons my child receives at school.</text>
+            </label>
+        </item>
+        <item id="PA295FL" its:localeFilterList="fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,nl-NL,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,bg-BG,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,da-DK,es-EC,ar-EG,en-EG,eu-ES,ca-ES,gl-ES,es-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hr-HR,hu-HU,id-ID,en-IE,ar-IL,he-IL,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,es-PE,pl-PL,es-PY,ar-PS,en-PS,ar-QA,en-QA,az-QZ,ru-QZ,el-CY,en-CY,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,en-SE,sv-SE,th-TH,tr-TR,uk-UA,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="PA295FL_f7629a54e155dcb37260e9fceed95ff3_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <strong>‌In your opinion, how important is &lt;English²&gt; for your child, for the following purposes?‌</strong>
+                </text>
+            </label>
+            <label key="PA295FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="PA295FL_PA295FL_01_d269f73d532d59651b0bae85c8d439df_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Not important at all‌</em>
+                </text>
+            </label>
+            <label key="PA295FL_PA295FL_02_84461d47706e9156c7b239968b686743_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Not very important‌</em>
+                </text>
+            </label>
+            <label key="PA295FL_PA295FL_03_e2bf4f7499dd637bc463b097413ad177_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Important‌</em>
+                </text>
+            </label>
+            <label key="PA295FL_PA295FL_04_e26218fd4ceb8f649d182942e193f27e_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Very important‌</em>
+                </text>
+            </label>
+            <label key="PA295FL_PA295FLQ01_09a3a4e32a738684a546274ad7241945_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>For travelling</text>
+            </label>
+            <label key="PA295FL_PA295FLQ02_d5864fd0690e5986e92783300fd9f192_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>For getting a good job</text>
+            </label>
+            <label key="PA295FL_PA295FLQ03_7eb606d29438a6b665994507266c43b0_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>For further education</text>
+            </label>
+            <label key="PA295FL_PA295FLQ04_96ab7d3bd1257b1b97380feeb5bdc626_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>For entertainment (e.g. games, movies, music)</text>
+            </label>
+            <label key="PA295FL_PA295FLQ06_23144bff75fc545cefe8da27a8b232fe_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>For using computers and other technical devices</text>
+            </label>
+            <label key="PA295FL_PA295FLQ07_4ad29d9efb66ee8b721f416a30955688_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>For personal development (e.g. courses for personal interest, reading for knowledge or pleasure)</text>
+            </label>
+            <label key="PA295FL_PA295FLQ08_14f1f6308603bd94aea7a463aa6a5367_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>For communicating with people from different cultures</text>
+            </label>
+        </item>
+        <item id="PA225FL" its:localeFilterList="fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,nl-NL,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,bg-BG,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,da-DK,es-EC,ar-EG,en-EG,eu-ES,ca-ES,gl-ES,es-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hr-HR,hu-HU,id-ID,en-IE,ar-IL,he-IL,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,es-PE,pl-PL,es-PY,ar-PS,en-PS,ar-QA,en-QA,az-QZ,ru-QZ,el-CY,en-CY,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,en-SE,sv-SE,th-TH,tr-TR,uk-UA,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="PA225FL_14ce16d86c4bef0b0c8857e7d8f769d6_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <strong>‌To what extent can (or could) you do the following things when speaking &lt;English²&gt;?‌</strong>
+                </text>
+            </label>
+            <label key="PA225FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="PA225FL_PA225FL_01_dbf9664ee8bcd655048485bda9a84897_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Not at all‌</em>
+                </text>
+            </label>
+            <label key="PA225FL_PA225FL_02_a0530126462c6c0f03c337d3a4ff5cc5_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Very little‌</em>
+                </text>
+            </label>
+            <label key="PA225FL_PA225FL_03_cda5ac0bb29f6ab45e898a90515f63f0_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌To some extent‌</em>
+                </text>
+            </label>
+            <label key="PA225FL_PA225FL_04_6d6e979b96bd74aa80cf0cc4e0e8621f_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌To a large extent‌</em>
+                </text>
+            </label>
+            <label key="PA225FL_PA225FLQ01_af487e370b3a05c4e29d17e97a949155_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Give basic personal information (e.g. address, nationality).</text>
+            </label>
+            <label key="PA225FL_PA225FLQ02_e5000b7c2b4591de4f9fda333a531748_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Give a short description of very familiar topics (e.g. yourself, your family).</text>
+            </label>
+            <label key="PA225FL_PA225FLQ03_720d9dd7528ffb982cd2d5db0a67bf9b_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Give a description of everyday topics (e.g. your hobbies, your work).</text>
+            </label>
+            <label key="PA225FL_PA225FLQ04_ec9f0954420f578bc78a06b4b74538dd_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Give a description of events and personal experiences (e.g. about your plans, a trip you took).</text>
+            </label>
+            <label key="PA225FL_PA225FLQ05_ca47c7b5d3b80cd1328fc567613364c9_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Give an opinion on a current issue (e.g. on climate change, use of technology).</text>
+            </label>
+            <label key="PA225FL_PA225FLQ06_d2efd5a7aa55b0ed6330e4423eeaf224_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Summarise ideas about a complex subject (e.g. in an oral summary or presentation)</text>
+            </label>
+            <label key="PA225FL_PA225FLQ07_012533720e3c9c5190531a26c0c75471_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Briefly give reasons and explanations for opinions and plans</text>
+            </label>
+        </item>
+        <item id="PA228FL" its:localeFilterList="fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,nl-NL,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,bg-BG,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,da-DK,es-EC,ar-EG,en-EG,eu-ES,ca-ES,gl-ES,es-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hr-HR,hu-HU,id-ID,en-IE,ar-IL,he-IL,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,es-PE,pl-PL,es-PY,ar-PS,en-PS,ar-QA,en-QA,az-QZ,ru-QZ,el-CY,en-CY,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,en-SE,sv-SE,th-TH,tr-TR,uk-UA,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="PA228FL_d5e060310a35180cecf916f6f3e62e58_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <strong>‌To what extent can (or could) you do the following things when reading in &lt;English²&gt;?‌</strong>
+                </text>
+            </label>
+            <label key="PA228FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="PA228FL_PA228FL_01_dbf9664ee8bcd655048485bda9a84897_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Not at all‌</em>
+                </text>
+            </label>
+            <label key="PA228FL_PA228FL_02_a0530126462c6c0f03c337d3a4ff5cc5_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Very little‌</em>
+                </text>
+            </label>
+            <label key="PA228FL_PA228FL_03_cda5ac0bb29f6ab45e898a90515f63f0_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌To some extent‌</em>
+                </text>
+            </label>
+            <label key="PA228FL_PA228FL_04_6d6e979b96bd74aa80cf0cc4e0e8621f_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌To a large extent‌</em>
+                </text>
+            </label>
+            <label key="PA228FL_PA228FLQ01_b764db36e796de5e88749089ec5b1c67_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Understand words commonly used in everyday life (e.g. common street signs, posters, menus).</text>
+            </label>
+            <label key="PA228FL_PA228FLQ02_06c4161668adc805350cd1160b3acfeb_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Understand words and phrases in very short simple texts (e.g. flyers, postcards).</text>
+            </label>
+            <label key="PA228FL_PA228FLQ03_d9b351418ebd8cb8781ff9dd8b73a916_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Understand short simple texts with predictable information and on familiar subjects (e.g. invitations, basic instructions).</text>
+            </label>
+            <label key="PA228FL_PA228FLQ04_7ed311e26953bd3609d7bd6d713d08fe_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Understand the main points in texts describing events and feelings (e.g. short news articles, personal emails).</text>
+            </label>
+            <label key="PA228FL_PA228FLQ05_a37abdfda399d02bea0a23db81635355_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Understand longer texts in which the writers express their points of view (e.g. news articles, reports).</text>
+            </label>
+            <label key="PA228FL_PA228FLQ06_7d7b3e32c4935a8704f4646668ea052c_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Understand detailed information in longer and more complex texts related to your personal interests (e.g. books, subject specific articles).</text>
+            </label>
+        </item>
+        <item id="PA264FL" its:localeFilterList="fr-FR,es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,nl-NL,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,bg-BG,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,da-DK,es-EC,ar-EG,en-EG,eu-ES,ca-ES,gl-ES,es-ES,et-EE,ru-EE,fi-FI,ka-GE,el-GR,zh-HK,hr-HR,hu-HU,id-ID,en-IE,ar-IL,he-IL,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,es-PE,pl-PL,es-PY,ar-PS,en-PS,ar-QA,en-QA,az-QZ,ru-QZ,el-CY,en-CY,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,en-SE,sv-SE,th-TH,tr-TR,uk-UA,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="PA264FL_18e31aab82f5125c1831617d5748ee13_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <strong>‌How often did you do the following things at work during the last twelve months?‌</strong>
+                </text>
+            </label>
+            <label key="PA264FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="PA264FL_PA264FL_01_038e51506f3c92328e9117fcaee66ec6_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Never/ I have not worked during the last 12 months‌</em>
+                </text>
+            </label>
+            <label key="PA264FL_PA264FL_02_08625caaa82eca59b1f0c350136e9e0a_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice‌</em>
+                </text>
+            </label>
+            <label key="PA264FL_PA264FL_03_4b148f87400cd2308a9e993ccdb9f94f_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a month‌</em>
+                </text>
+            </label>
+            <label key="PA264FL_PA264FL_04_9194c58472cc2f1fc715ed3cabfd3c3a_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌About once or twice a week‌</em>
+                </text>
+            </label>
+            <label key="PA264FL_PA264FL_05_222a7414c66b83712fcb34c56bbcedb1_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>
+                    <em>‌Every day or almost every day‌</em>
+                </text>
+            </label>
+            <label key="PA264FL_PA264FLQ01_0c02e7889a7f783890475eadf7eb6b40_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Speak &lt;English²&gt; (e.g. giving presentations, participating in conversations).</text>
+            </label>
+            <label key="PA264FL_PA264FLQ02_3f73db124e20ff988779f3515068f395_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Write in &lt;English²&gt; (e.g. writing emails, drafting reports).</text>
+            </label>
+            <label key="PA264FL_PA264FLQ03_b4170e4f51ed2abcd499e8b24c48b375_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Listen to spoken &lt;English²&gt; (e.g. videos, presentations, conversations).</text>
+            </label>
+            <label key="PA264FL_PA264FLQ04_d17925901606767463f1716200af5468_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,it-IT,ro-RO,zh-TW" its:localeFilterType="include">
+                <text>Read in &lt;English²&gt; (e.g. reading emails or technical documents).</text>
+            </label>
+        </item>
+    </items>
+</file>

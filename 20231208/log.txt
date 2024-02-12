@@ -1,0 +1,338 @@
+== STQ == 
+
+mom_id_string_concats=['ST003@Day', 'ST003@Month', 'ST003@Year', 'ST228@Mother or female guardian', 'ST228@Father or male guardian', 'ST228@Older brother(s) and sister(s) (including foster / half / step)', 'ST228@Younger brother(s) and sister(s) (including foster / half / stepsisters) including those of the same age', 'ST228@Grandparent(s)', 'ST228@Other relatives (e.g. aunt, uncle, cousin)', 'ST229@At my main', 'ST229@At my other', 'ST229@Mother or female guardian', 'ST229@Father or male guardian', 'ST229@Older brother(s) and sister(s) (including foster / half / step)', 'ST229@Younger brother(s) and sister(s) (including foster / half / stepsisters) including those of the same age', 'ST229@Grandparent(s)', 'ST229@Other relatives (e.g. aunt, uncle, cousin)', 'ST326@For learning activities at school', 'ST326@For learning activities before and after school', 'ST326@For learning activities on weekends', 'ST326@For leisure at school', 'ST326@For leisure before and after school', 'ST326@For leisure on weekends', 'ST059@test language lessons', 'ST059@mathematics', 'ST059@science', 'ST059@per week in all subjects, including subjects not listed above', 'ST059@National addition 01', 'ST059@National addition 02', 'ST059@National addition 03', 'ST059@National addition 04', 'ST059@National addition 05', 'ST059@National addition 06', 'ST059@National addition 07', 'ST071@School science', 'ST071@Other Subjects', 'ST071@National addition 202', 'ST071@National addition 203', 'ST071@National addition 204', 'ST507@School science', 'ST507@English', 'ST507@Modern foreign languages', 'ST507@in all subjects, including subjects not listed above', 'ST507@Te reo Māori class', 'ST329@(Please type in the job title or describe the kind of work you expect to do in that job.)']
+
+> id_string_concat='ST003@On what date were you born?' is NOT in MoM
+> id_string_concat='ST003@(Please select the day, month, and year from the drop-down menus to answer the question.)' is NOT in MoM
+Label key ST250_ST250Q22DA_8605940e14e40ba0e69e024b2ddbfd8f_32 not found in omt data
+Label key ST250_ST250Q23DA_099aeb4ad9495f896e629d82e884e7f4_33 not found in omt data
+Label key ST250_ST250Q24DA_17fead12956698e5604d8f24a079127c_34 not found in omt data
+Label key ST250_ST250Q25DA_cb98f3d3b7c58d3cdecf3464f7e7ec00_35 not found in omt data
+Label key ST250_ST250Q26DA_a2a922a4c6bb6698821c3d78fa50af23_36 not found in omt data
+Label key ST250_ST250Q27DA_8f80c2000ed22bd9027aed05cf9a165c_37 not found in omt data
+Label key ST250_ST250N28_16b7b2c5b6a3487834c8b3abe0767ebd_38 not found in omt data
+> id_string_concat='ST228@How many of the following people usually live at your main <home> with you?' is NOT in MoM
+> id_string_concat='ST228@Your main <home> is the home where you live most of the time.' is NOT in MoM
+> id_string_concat='ST228@(Please select a number from the drop-down menu in each row.)' is NOT in MoM
+Label key ST228_f30aa160651fcb2778bee2176432a393_4 not found in omt data
+Label key ST228_ST228Q03JA_0_6adf97f83acf6453d4a6a4b1070f3754_5 not found in omt data
+Label key ST228_ST228Q03JA_1_06c2cea18679d64399783748fa367bdd_6 not found in omt data
+Label key ST228_ST228Q03JA_2_aada29daee1d64ed0fe907043855cb7e_7 not found in omt data
+Label key ST228_ST228Q03JA_3_ca8a2087e5557e317599344687a57391_8 not found in omt data
+Label key ST228_ST228Q03JA_4_981b8fcee42e1e726a67a2b9a98ea6e9_9 not found in omt data
+Label key ST228_ST228Q03JA_5_e7097b29d0fb6cd3521b8f1ff3628169_10 not found in omt data
+Label key ST228_3fbc3ced1fb742f9d9041af48514e916_11 not found in omt data
+Label key ST228_ST228Q04JA_0_6adf97f83acf6453d4a6a4b1070f3754_12 not found in omt data
+Label key ST228_ST228Q04JA_1_06c2cea18679d64399783748fa367bdd_13 not found in omt data
+Label key ST228_ST228Q04JA_2_aada29daee1d64ed0fe907043855cb7e_14 not found in omt data
+Label key ST228_ST228Q04JA_3_ca8a2087e5557e317599344687a57391_15 not found in omt data
+Label key ST228_ST228Q04JA_4_981b8fcee42e1e726a67a2b9a98ea6e9_16 not found in omt data
+Label key ST228_ST228Q04JA_5_e5d9de39f7ca1ba2637e5640af3ae8aa_17 not found in omt data
+Label key ST228_cb1ebedf91426b890da7f6e3f09675d0_18 not found in omt data
+Label key ST228_ST228Q05JA_0_6adf97f83acf6453d4a6a4b1070f3754_19 not found in omt data
+Label key ST228_ST228Q05JA_1_06c2cea18679d64399783748fa367bdd_20 not found in omt data
+Label key ST228_ST228Q05JA_2_aada29daee1d64ed0fe907043855cb7e_21 not found in omt data
+Label key ST228_ST228Q05JA_3_ca8a2087e5557e317599344687a57391_22 not found in omt data
+Label key ST228_ST228Q05JA_4_981b8fcee42e1e726a67a2b9a98ea6e9_23 not found in omt data
+Label key ST228_ST228Q05JA_5_e7097b29d0fb6cd3521b8f1ff3628169_24 not found in omt data
+Label key ST228_ea832857dd03a2a2d31793540aab8dfd_25 not found in omt data
+Label key ST228_ST228Q06JA_0_6adf97f83acf6453d4a6a4b1070f3754_26 not found in omt data
+Label key ST228_ST228Q06JA_1_06c2cea18679d64399783748fa367bdd_27 not found in omt data
+Label key ST228_ST228Q06JA_2_aada29daee1d64ed0fe907043855cb7e_28 not found in omt data
+Label key ST228_ST228Q06JA_3_ca8a2087e5557e317599344687a57391_29 not found in omt data
+Label key ST228_ST228Q06JA_4_981b8fcee42e1e726a67a2b9a98ea6e9_30 not found in omt data
+Label key ST228_ST228Q06JA_5_e7097b29d0fb6cd3521b8f1ff3628169_31 not found in omt data
+Label key ST228_ST228Q07JA_0_6adf97f83acf6453d4a6a4b1070f3754_32 not found in omt data
+Label key ST228_ST228Q07JA_1_06c2cea18679d64399783748fa367bdd_33 not found in omt data
+Label key ST228_ST228Q07JA_2_aada29daee1d64ed0fe907043855cb7e_34 not found in omt data
+Label key ST228_ST228Q07JA_3_ca8a2087e5557e317599344687a57391_35 not found in omt data
+Label key ST228_ST228Q07JA_4_981b8fcee42e1e726a67a2b9a98ea6e9_36 not found in omt data
+Label key ST228_ST228Q07JA_5_e7097b29d0fb6cd3521b8f1ff3628169_37 not found in omt data
+Label key ST401_ST401Q08DA_46ee92d191204d1e9b3459b11abdb002_14 not found in omt data
+Label key ST401_ST401Q09DA_463c391493e215bb879b643a801c0e5c_15 not found in omt data
+> id_string_concat='ST229@How many of the following people usually live at your <homes> with you?' is NOT in MoM
+> id_string_concat='ST229@“Main <home>” refers to the home where you spend most of your time.' is NOT in MoM
+> id_string_concat='ST229@(Please provide a number in each column.)' is NOT in MoM
+Label key ST229_0686f55bbab3daaf72605c758eb6bade_6 not found in omt data
+Label key ST229_ST229Q03JA_main_0_6adf97f83acf6453d4a6a4b1070f3754_7 not found in omt data
+Label key ST229_ST229Q03JA_main_1_06c2cea18679d64399783748fa367bdd_8 not found in omt data
+Label key ST229_ST229Q03JA_main_2_aada29daee1d64ed0fe907043855cb7e_9 not found in omt data
+Label key ST229_ST229Q03JA_main_3_ca8a2087e5557e317599344687a57391_10 not found in omt data
+Label key ST229_ST229Q03JA_main_4_981b8fcee42e1e726a67a2b9a98ea6e9_11 not found in omt data
+Label key ST229_ST229Q03JA_main_5_e7097b29d0fb6cd3521b8f1ff3628169_12 not found in omt data
+Label key ST229_ST229Q03JA_other_0_6adf97f83acf6453d4a6a4b1070f3754_13 not found in omt data
+Label key ST229_ST229Q03JA_other_1_06c2cea18679d64399783748fa367bdd_14 not found in omt data
+Label key ST229_ST229Q03JA_other_2_aada29daee1d64ed0fe907043855cb7e_15 not found in omt data
+Label key ST229_ST229Q03JA_other_3_ca8a2087e5557e317599344687a57391_16 not found in omt data
+Label key ST229_ST229Q03JA_other_4_981b8fcee42e1e726a67a2b9a98ea6e9_17 not found in omt data
+Label key ST229_ST229Q03JA_other_5_e7097b29d0fb6cd3521b8f1ff3628169_18 not found in omt data
+Label key ST229_3fbc3ced1fb742f9d9041af48514e916_19 not found in omt data
+Label key ST229_ST229Q04JA_main_0_6adf97f83acf6453d4a6a4b1070f3754_20 not found in omt data
+Label key ST229_ST229Q04JA_main_1_06c2cea18679d64399783748fa367bdd_21 not found in omt data
+Label key ST229_ST229Q04JA_main_2_aada29daee1d64ed0fe907043855cb7e_22 not found in omt data
+Label key ST229_ST229Q04JA_main_3_ca8a2087e5557e317599344687a57391_23 not found in omt data
+Label key ST229_ST229Q04JA_main_4_981b8fcee42e1e726a67a2b9a98ea6e9_24 not found in omt data
+Label key ST229_ST229Q04JA_main_5_e7097b29d0fb6cd3521b8f1ff3628169_25 not found in omt data
+Label key ST229_ST229Q04JA_other_0_6adf97f83acf6453d4a6a4b1070f3754_26 not found in omt data
+Label key ST229_ST229Q04JA_other_1_06c2cea18679d64399783748fa367bdd_27 not found in omt data
+Label key ST229_ST229Q04JA_other_2_aada29daee1d64ed0fe907043855cb7e_28 not found in omt data
+Label key ST229_ST229Q04JA_other_3_ca8a2087e5557e317599344687a57391_29 not found in omt data
+Label key ST229_ST229Q04JA_other_4_981b8fcee42e1e726a67a2b9a98ea6e9_30 not found in omt data
+Label key ST229_ST229Q04JA_other_5_e7097b29d0fb6cd3521b8f1ff3628169_31 not found in omt data
+Label key ST229_cb1ebedf91426b890da7f6e3f09675d0_32 not found in omt data
+Label key ST229_ST229Q05JA_main_0_6adf97f83acf6453d4a6a4b1070f3754_33 not found in omt data
+Label key ST229_ST229Q05JA_main_1_06c2cea18679d64399783748fa367bdd_34 not found in omt data
+Label key ST229_ST229Q05JA_main_2_aada29daee1d64ed0fe907043855cb7e_35 not found in omt data
+Label key ST229_ST229Q05JA_main_3_ca8a2087e5557e317599344687a57391_36 not found in omt data
+Label key ST229_ST229Q05JA_main_4_981b8fcee42e1e726a67a2b9a98ea6e9_37 not found in omt data
+Label key ST229_ST229Q05JA_main_5_e7097b29d0fb6cd3521b8f1ff3628169_38 not found in omt data
+Label key ST229_ST229Q05JA_other_0_6adf97f83acf6453d4a6a4b1070f3754_39 not found in omt data
+Label key ST229_ST229Q05JA_other_1_06c2cea18679d64399783748fa367bdd_40 not found in omt data
+Label key ST229_ST229Q05JA_other_2_aada29daee1d64ed0fe907043855cb7e_41 not found in omt data
+Label key ST229_ST229Q05JA_other_3_ca8a2087e5557e317599344687a57391_42 not found in omt data
+Label key ST229_ST229Q05JA_other_4_981b8fcee42e1e726a67a2b9a98ea6e9_43 not found in omt data
+Label key ST229_ST229Q05JA_other_5_e7097b29d0fb6cd3521b8f1ff3628169_44 not found in omt data
+Label key ST229_ea832857dd03a2a2d31793540aab8dfd_45 not found in omt data
+Label key ST229_ST229Q06JA_main_0_6adf97f83acf6453d4a6a4b1070f3754_46 not found in omt data
+Label key ST229_ST229Q06JA_main_1_06c2cea18679d64399783748fa367bdd_47 not found in omt data
+Label key ST229_ST229Q06JA_main_2_aada29daee1d64ed0fe907043855cb7e_48 not found in omt data
+Label key ST229_ST229Q06JA_main_3_ca8a2087e5557e317599344687a57391_49 not found in omt data
+Label key ST229_ST229Q06JA_main_4_981b8fcee42e1e726a67a2b9a98ea6e9_50 not found in omt data
+Label key ST229_ST229Q06JA_main_5_e7097b29d0fb6cd3521b8f1ff3628169_51 not found in omt data
+Label key ST229_ST229Q06JA_other_0_6adf97f83acf6453d4a6a4b1070f3754_52 not found in omt data
+Label key ST229_ST229Q06JA_other_1_06c2cea18679d64399783748fa367bdd_53 not found in omt data
+Label key ST229_ST229Q06JA_other_2_aada29daee1d64ed0fe907043855cb7e_54 not found in omt data
+Label key ST229_ST229Q06JA_other_3_ca8a2087e5557e317599344687a57391_55 not found in omt data
+Label key ST229_ST229Q06JA_other_4_981b8fcee42e1e726a67a2b9a98ea6e9_56 not found in omt data
+Label key ST229_ST229Q06JA_other_5_e7097b29d0fb6cd3521b8f1ff3628169_57 not found in omt data
+Label key ST229_0c4f3f6d51758a209d005ae5fd76cef8_58 not found in omt data
+Label key ST229_ST229Q07JA_main_0_6adf97f83acf6453d4a6a4b1070f3754_59 not found in omt data
+Label key ST229_ST229Q07JA_main_1_06c2cea18679d64399783748fa367bdd_60 not found in omt data
+Label key ST229_ST229Q07JA_main_2_aada29daee1d64ed0fe907043855cb7e_61 not found in omt data
+Label key ST229_ST229Q07JA_main_3_ca8a2087e5557e317599344687a57391_62 not found in omt data
+Label key ST229_ST229Q07JA_main_4_981b8fcee42e1e726a67a2b9a98ea6e9_63 not found in omt data
+Label key ST229_ST229Q07JA_main_5_e7097b29d0fb6cd3521b8f1ff3628169_64 not found in omt data
+Label key ST229_ST229Q07JA_other_0_6adf97f83acf6453d4a6a4b1070f3754_65 not found in omt data
+Label key ST229_ST229Q07JA_other_1_06c2cea18679d64399783748fa367bdd_66 not found in omt data
+Label key ST229_ST229Q07JA_other_2_aada29daee1d64ed0fe907043855cb7e_67 not found in omt data
+Label key ST229_ST229Q07JA_other_3_ca8a2087e5557e317599344687a57391_68 not found in omt data
+Label key ST229_ST229Q07JA_other_4_981b8fcee42e1e726a67a2b9a98ea6e9_69 not found in omt data
+Label key ST229_ST229Q07JA_other_5_0e98ef1294ea9be11d6ec1e074d98915_70 not found in omt data
+Label key ST405_ST405Q02DA_722b0308e79d13de9dfb41bb9efda077_6 not found in omt data
+Label key ST405_ST405Q03DA_610d63c729200059ac4955b75ca4dc14_7 not found in omt data
+Label key ST405_ST405Q04DA_27b1c14d039b18ba78365469f517727e_8 not found in omt data
+Label key ST405_ST405Q05DA_80674452771368daac76e0a46bef82e3_9 not found in omt data
+Label key ST405_ST405Q06DA_907bef6858a31dcbbb186fa661d68e30_10 not found in omt data
+Label key ST405_ST405Q07DA_4992d78753d7a0ea6f7856af4d324fbf_11 not found in omt data
+Label key ST405_ST405Q08DA_fe9f61258f4281fc84df3647e3d56244_12 not found in omt data
+Label key ST405_ST405N10_e307dd8a5de34acad9cef596042e575d_13 not found in omt data
+Label key ST405_ST405N11_57eccb179aff43fa6c7226733e7ff82c_14 not found in omt data
+Label key ST405_ST405N12_8f9b0900d766e8e99f8736385e271bea_15 not found in omt data
+Label key ST405_ST405N13_6684f2beea2b06d68402dc857966dd7f_16 not found in omt data
+Label key ST405_ST405N14_8f9562e4e51aa340647b543e940ae452_17 not found in omt data
+Label key ST405_ST405N15_1e6bea767c62d4520efeab167045b87a_18 not found in omt data
+Label key ST405_ST405Q09DA_85714c9b798e04af9fd9c968c60e72b5_19 not found in omt data
+Label key ST406_1b370f8f36b1203f89978defd408cf51_1 not found in omt data
+Label key ST406_9e13b216ebff0b931558bb592a4f3622_3 not found in omt data
+Label key ST410_ST410Q02A_722b0308e79d13de9dfb41bb9efda077_9 not found in omt data
+Label key ST410_ST410Q03A_610d63c729200059ac4955b75ca4dc14_10 not found in omt data
+Label key ST410_ST410Q04A_27b1c14d039b18ba78365469f517727e_11 not found in omt data
+Label key ST410_ST410Q05A_80674452771368daac76e0a46bef82e3_12 not found in omt data
+Label key ST410_ST410Q06A_907bef6858a31dcbbb186fa661d68e30_13 not found in omt data
+Label key ST410_ST410Q07A_4992d78753d7a0ea6f7856af4d324fbf_14 not found in omt data
+Label key ST410_ST410Q08A_fe9f61258f4281fc84df3647e3d56244_15 not found in omt data
+Label key ST410_ST410N10_a765064ff3320609de6b814ded45a9d5_16 not found in omt data
+Label key ST410_ST410N11_28a98d93d7a06cd392af41eb071df1a7_17 not found in omt data
+Label key ST410_ST410N12_b430d8c34f2031bebeff4a5b4a6eab76_18 not found in omt data
+Label key ST410_ST410N13_a3be86b6a402f815c85b4b291e3b7548_19 not found in omt data
+Label key ST410_ST410N14_9ba05684bbba99341fc1aabc87ed1ab4_20 not found in omt data
+Label key ST410_ST410N15_87df534278af920e5af2a50cd4cc8f6f_21 not found in omt data
+Label key ST410_ST410Q09A_1fbd0dbdc086f2f2eab29f0473adcb5b_22 not found in omt data
+Label key ST005_ST005Q01JA01_610d63c729200059ac4955b75ca4dc14_4 not found in omt data
+Label key ST005_ST005Q01JA02_722b0308e79d13de9dfb41bb9efda077_5 not found in omt data
+Label key ST005_ST005Q01JA03_41226d25f260bc8494bfe55050b14de9_6 not found in omt data
+Label key ST005_ST005Q01JA04_0098ff5a758b8c291bb04dfc2d1467a2_7 not found in omt data
+Label key ST005_ST005Q01N06_2ddb427adc408d1f40d69f04fae0631c_8 not found in omt data
+Label key ST005_ST005Q01N07_e1c3707ad94673c9b1a16b7eb408f691_9 not found in omt data
+Label key ST005_ST005Q01N08_093d97ed87bb6e540098683d53763fc8_10 not found in omt data
+Label key ST005_ST005Q01N09_c0e04205d7f7ce23fb11bf4b9454f7ee_11 not found in omt data
+Label key ST005_ST005Q01JA05_1937b9a3cea6117fdb8d15ceef70d1c7_12 not found in omt data
+Label key ST006_ST006Q01JA_fe9f61258f4281fc84df3647e3d56244_6 not found in omt data
+Label key ST006_ST006Q02JA_4992d78753d7a0ea6f7856af4d324fbf_7 not found in omt data
+Label key ST006_ST006Q03JA_907bef6858a31dcbbb186fa661d68e30_8 not found in omt data
+Label key ST006_ST006Q04JA_80674452771368daac76e0a46bef82e3_9 not found in omt data
+Label key ST006_ST006Q05JA_27b1c14d039b18ba78365469f517727e_10 not found in omt data
+Label key ST006_ST006Q01N06_fbaab97580266163a7de5f1484dd9af3_11 not found in omt data
+Label key ST006_ST006Q01N07_6505809228fa2243340b451f3f320b57_12 not found in omt data
+Label key ST006_ST006Q01N08_be528f770b1e91e774930cc9314728b0_13 not found in omt data
+Label key ST006_ST006Q01N09_bb7688d641b7c125c8d619db19d80353_14 not found in omt data
+Label key ST006_ST006Q01N10_393e8e13327c4fdf76d96c6c56daaaa3_15 not found in omt data
+Label key ST007_ST007Q01JA01_610d63c729200059ac4955b75ca4dc14_4 not found in omt data
+Label key ST007_ST007Q01JA02_722b0308e79d13de9dfb41bb9efda077_5 not found in omt data
+Label key ST007_ST007Q01JA03_41226d25f260bc8494bfe55050b14de9_6 not found in omt data
+Label key ST007_ST007Q01JA04_0098ff5a758b8c291bb04dfc2d1467a2_7 not found in omt data
+Label key ST007_ST007Q01N06_5473217579302d4e0c0a03b674a96d40_8 not found in omt data
+Label key ST007_ST007Q01N07_8fd334bd2988a98659a40a2c7a3bbffd_9 not found in omt data
+Label key ST007_ST007Q01N08_746a41e3046742cc5ba839892466c191_10 not found in omt data
+Label key ST007_ST007Q01N09_49652f3c31d595f7743660a5d68340f0_11 not found in omt data
+Label key ST007_ST007Q01JA05_ddcb434be26f1edcc4019062fa347901_12 not found in omt data
+Label key ST008_ST008Q01JA_fe9f61258f4281fc84df3647e3d56244_6 not found in omt data
+Label key ST008_ST008Q02JA_4992d78753d7a0ea6f7856af4d324fbf_7 not found in omt data
+Label key ST008_ST008Q03JA_907bef6858a31dcbbb186fa661d68e30_8 not found in omt data
+Label key ST008_ST008Q04JA_80674452771368daac76e0a46bef82e3_9 not found in omt data
+Label key ST008_ST008Q05JA_27b1c14d039b18ba78365469f517727e_10 not found in omt data
+Label key ST008_ST008Q01N06_caad10aa02ab8cb293d9469dc072432b_11 not found in omt data
+Label key ST008_ST008Q01N07_4d7e7f035d28cde6cd7ffffdda85c245_12 not found in omt data
+Label key ST008_ST008Q01N08_b999ca2ba44f4044d4486b0b82512ef6_13 not found in omt data
+Label key ST008_ST008Q01N09_f85dd0d73cacad951d69e23d3cab56a8_14 not found in omt data
+Label key ST008_ST008Q01N10_36e4347c918dd9e77fca6a46fd3e3982_15 not found in omt data
+Label key ST008_ST008Q01N11_044107187c34659b711a4f335b2c5307_16 not found in omt data
+Label key ST019_8e6d3aeb3c3776b993ca013ac8fecc99_1 not found in omt data
+Label key ST019_ST019AQ02T_b53769b141b72f21dca6e472315946fe_4 not found in omt data
+Label key ST019_ST019AQ03T_bc432de11bc7419838e5b8faf3811aab_5 not found in omt data
+Label key ST019_ST019Q01T07_53850fe5e86febec710f2af76c61d833_30 not found in omt data
+Label key ST022_ST022Q01N08_d434524cac77e7511d9a4397716a8656_6 not found in omt data
+Label key ST022_ST022Q01N09_e400acd4df80011e64b2136500547e32_7 not found in omt data
+Label key ST022_ST022Q01N10_6b625aa79a9f3418217eda3f8e12717c_8 not found in omt data
+Label key ST022_ST022Q01N11_0fa9361bb5c501e7e43a64198a46f341_9 not found in omt data
+Label key ST022_ST022Q01N12_a08f95f919b191cb8aa63083c3951373_10 not found in omt data
+Label key ST022_ST022Q01N13_29c9465c4c08ee1d3469beceb871e4ae_11 not found in omt data
+Label key ST022_ST022Q01N14_669a0c5fec3ba75f99b93057ff3bbf49_12 not found in omt data
+Label key ST022_ST022Q01N15_98b5a2c6e699605e285e0fcbed2f56c9_13 not found in omt data
+Label key ST022_ST022Q01N16_43d09052c554194cde545f60bf03fe53_14 not found in omt data
+Label key ST022_ST022Q01TA06_934cac7fd5e7efb0900dae76603221a3_15 not found in omt data
+Label key ST022_ST022Q01TA07_7fc17ec927a73775fd1712498f4892d9_16 not found in omt data
+> id_string_concat='ST326@This school year, about how many hours a day do you usually use <digital resources> in the following situations?' is NOT in MoM
+> id_string_concat='ST326@(Please think of different kinds of <digital resources> such as desktop computers, laptops and tablets as well as educational software and other digital learning tools.)' is NOT in MoM
+> id_string_concat='ST326@(Please select one response from the drop-down menus to answer the questions.)' is NOT in MoM
+> id_string_concat='ST059@How many <class periods> per week are you typically required to attend for the following subjects?' is NOT in MoM
+> id_string_concat='ST059@(Please enter a number in each row. Enter “0” (zero) if you have none.)' is NOT in MoM
+> id_string_concat='ST059@Number of <class periods> per week in <modern foreign languages¹> other than <English¹>' is NOT in MoM
+Label key ST059_fefe8122afca541a0f7e91f1e3566fca_15 not found in omt data
+> id_string_concat='ST071@This school year, approximately how many hours per week do you spend learning in addition to your required school schedule in the following subjects?' is NOT in MoM
+> id_string_concat='ST071@This is only learning in subjects that you are also learning at school, which you spend extra time on outside of normal school hours. The learning may be given at school, at your home or somewhere else and includes tutoring. This does not include homework.' is NOT in MoM
+> id_string_concat='ST071@(Please enter a number. Enter "0" (zero) if you do not attend additional instruction in this subject.)' is NOT in MoM
+> id_string_concat='ST071@<English¹>' is NOT in MoM
+Label key ST071_c57ec3e5c28f9345c3f628edafcd647e_8 not found in omt data
+> id_string_concat='ST507@In a typical school week, approximately how many hours do you spend on <self-study/private study> in the following subjects?' is NOT in MoM
+> id_string_concat='ST507@<self-study/private study> refers to learning or revising on school-related subjects at your own pace without the help or direction of a teacher or tutor.' is NOT in MoM
+> id_string_concat='ST507@(Please enter a number in each row. Enter “0” (zero) if you have not spent any time on <self-study/private study> in this subject.)' is NOT in MoM
+> id_string_concat='ST507@hours' is NOT in MoM
+> id_string_concat='ST507@hours' is NOT in MoM
+> id_string_concat='ST507@hours' is NOT in MoM
+> id_string_concat='ST507@hours' is NOT in MoM
+> id_string_concat='ST507@hours' is NOT in MoM
+> id_string_concat='ST515@How often do the following things happen to students in your <school science> courses?' is NOT in MoM
+> id_string_concat='ST515@Students ….' is NOT in MoM
+> id_string_concat='ST515@(Please select one response in each row.)' is NOT in MoM
+Label key ST327_ST327Q02JA_722b0308e79d13de9dfb41bb9efda077_7 not found in omt data
+Label key ST327_ST327Q03JA_610d63c729200059ac4955b75ca4dc14_8 not found in omt data
+Label key ST327_ST327Q04JA_27b1c14d039b18ba78365469f517727e_9 not found in omt data
+Label key ST327_ST327Q05JA_80674452771368daac76e0a46bef82e3_10 not found in omt data
+Label key ST327_ST327Q06JA_907bef6858a31dcbbb186fa661d68e30_11 not found in omt data
+Label key ST327_ST327Q07JA_4992d78753d7a0ea6f7856af4d324fbf_12 not found in omt data
+Label key ST327_ST327Q08JA_fe9f61258f4281fc84df3647e3d56244_13 not found in omt data
+Label key ST327_ST327Q09_5ad0ed149cf0cb166e7adec9d3b0abe8_14 not found in omt data
+Label key ST327_ST327Q10_1ea7b96f1facb7cca05c4fe44353b705_15 not found in omt data
+Label key ST327_ST327Q11_10dbfa87bc196d031e7f4e07b064e6bd_16 not found in omt data
+Label key ST327_ST327Q12_a0c6fe46887908465c5fc216af493696_17 not found in omt data
+Label key ST327_ST327Q13_abbf1a9433fcfb66c4e61eb3887f3336_18 not found in omt data
+Label key ST327_ST327Q14_c86713592a50f2211a6277b252c32918_19 not found in omt data
+> id_string_concat='ST329@What kind of job do you expect to have when you are about 30 years old?' is NOT in MoM
+Label key ST527_ST527Q0102_722b0308e79d13de9dfb41bb9efda077_4 not found in omt data
+Label key ST527_ST527Q0103_610d63c729200059ac4955b75ca4dc14_5 not found in omt data
+Label key ST527_ST527Q0104_27b1c14d039b18ba78365469f517727e_6 not found in omt data
+Label key ST527_ST527Q0105_80674452771368daac76e0a46bef82e3_7 not found in omt data
+Label key ST527_ST527Q0106_907bef6858a31dcbbb186fa661d68e30_8 not found in omt data
+Label key ST527_ST527Q0107_4992d78753d7a0ea6f7856af4d324fbf_9 not found in omt data
+Label key ST527_ST527Q0108_fe9f61258f4281fc84df3647e3d56244_10 not found in omt data
+Label key ST527_ST527N09_8a7407ded9bd3a9bafc4e11757e9e797_11 not found in omt data
+Label key ST527_ST527N10_67ff2660e5c0ac509440045b6f6e22fb_12 not found in omt data
+Label key ST527_ST527N11_f0a022020f9dc9f2504c67cf5bece27e_13 not found in omt data
+Label key ST527_ST527N12_3e073e25025188c723861d0d97424664_14 not found in omt data
+Label key ST527_ST527N13_4dbf955bef1294efafd62f0a735c5d2b_15 not found in omt data
+Label key ST528_ST528Q0102_722b0308e79d13de9dfb41bb9efda077_4 not found in omt data
+Label key ST528_ST528Q0103_610d63c729200059ac4955b75ca4dc14_5 not found in omt data
+Label key ST528_ST528Q0104_27b1c14d039b18ba78365469f517727e_6 not found in omt data
+Label key ST528_ST528Q0105_80674452771368daac76e0a46bef82e3_7 not found in omt data
+Label key ST528_ST528Q0106_907bef6858a31dcbbb186fa661d68e30_8 not found in omt data
+Label key ST528_ST528Q0107_4992d78753d7a0ea6f7856af4d324fbf_9 not found in omt data
+Label key ST528_ST528Q0108_fe9f61258f4281fc84df3647e3d56244_10 not found in omt data
+Label key ST528_ST528N09_ce7d2b99afc149feacf8fb300c33111c_11 not found in omt data
+Label key ST528_ST528N10_8dd9d82af52d2ff93f07fbd741daa7ab_12 not found in omt data
+Label key ST528_ST528N11_ccc6bc10c203a387500283a9f40eb840_13 not found in omt data
+Label key ST528_ST528N12_ee03c9d5f0bab3615e54a0020769f8ab_14 not found in omt data
+Label key ST528_ST528N13_a64956ffd017a0f75fdacbc9d2b5d073_15 not found in omt data
+Label key ST528_ST528N14_5496a0e612de98e667d3e54a6467238d_16 not found in omt data
+Label key ST529_ST529Q02_27b1c14d039b18ba78365469f517727e_6 not found in omt data
+Label key ST529_ST529Q03_80674452771368daac76e0a46bef82e3_7 not found in omt data
+Label key ST529_ST529Q04_907bef6858a31dcbbb186fa661d68e30_8 not found in omt data
+Label key ST529_ST529Q05_4992d78753d7a0ea6f7856af4d324fbf_9 not found in omt data
+Label key ST529_ST529Q06_fe9f61258f4281fc84df3647e3d56244_10 not found in omt data
+Label key ST529_ST529N07_52ac124a8de9442c9523f7c697d32fa3_11 not found in omt data
+Label key ST529_ST529N08_1c19c676556837ca0961e63dd8348835_12 not found in omt data
+Label key ST529_ST529N09_cea27292b5078f2d14ff8a637a277360_13 not found in omt data
+Label key ST529_ST529N10_751faa56e75be8ea528a9f1dbbf467f3_14 not found in omt data
+Label key ST532_ST532_03_bb889fd17b016e3b6445957c45d2821a_5 not found in omt data
+Label key ST532_ST532_04_39cc492539b8ee02778389ff96346428_6 not found in omt data
+Label key ST532_ST532_05_6d8c08354c5449306f48e2c507f4b11f_7 not found in omt data
+Label key ST532_ST532Q01_540b6781036153a9582469b7395ba897_8 not found in omt data
+Label key ST532_ST532Q02_52f6425ba7ab0627e91464ba93f5d1f5_9 not found in omt data
+Label key ST532_ST532Q03_636825a9c459b785b2e03729c29c7f47_10 not found in omt data
+Label key ST532_ST532Q04_e92b84d2f7d165997c686a8b663b0222_11 not found in omt data
+Label key ST532_ST532Q05_70d868a6a897d25cded2cad96019e940_12 not found in omt data
+Label key ST532_ST532Q06_8aba2fd429b8859f77cbebfa8cf041ed_13 not found in omt data
+Label key ST532_ST532Q07_0e78a3833926aa1f49dd9f4bb86b7386_14 not found in omt data
+Label key ST532_ST532Q08_578b7eac4dfb34716f9bf3a330804ddc_15 not found in omt data
+Label key ST532_ST532Q09_fbb59c3d4a8e7784b53ea28cd93ba27b_16 not found in omt data
+Label key ST532_ST532N10_cdef3f64bf95f73c1b3be91b16854a57_17 not found in omt data
+Label key ST532_ST532N11_177e6a41a52e5204777d8b0e7e36b6e9_18 not found in omt data
+Label key ST532_ST532N12_e0d4eea32e06d6b9843cc167cc885e30_19 not found in omt data
+Label key ST532_ST532N13_96e2f77fd330b6fde79ae4480daa385a_20 not found in omt data
+Label key ST800CZE_8e860f2d14636972b0d113f848d5d359_1 not found in omt data
+Label key ST800CZE_4e8ee11491a1269fd458e80b7a414d67_2 not found in omt data
+Label key ST800CZE_ST800C01DACZE_c24757e24fd7167961dbbcc2fe5bb29e_3 not found in omt data
+Label key ST800CZE_ST800C02DACZE_38eafdf157f307d263589194708b3deb_4 not found in omt data
+Label key ST800CZE_ST800C03DACZE_da6363ebce7241154abf996c1ac14d50_5 not found in omt data
+Label key ST800CZE_ST800C04DACZE_b97ac64d271e571d7cf070c752e5e002_6 not found in omt data
+Label key ST800CZE_ST800C05DACZE_e681a3b45989b468533c4b90ee960bf9_7 not found in omt data
+Label key ST801CZE_4d185baf9e9ea0d61abd11071b616bb0_1 not found in omt data
+Label key ST801CZE_795093b60d321f8a3ce2c692010cfa5a_2 not found in omt data
+Label key ST801CZE_ST801C02DACZE_c4ca4238a0b923820dcc509a6f75849b_3 not found in omt data
+Label key ST801CZE_ST801C03DACZE_c81e728d9d4c2f636f067f89cc14862c_4 not found in omt data
+Label key ST801CZE_ST801C04DACZE_eccbc87e4b5ce2fe28308fd9f2a7baf3_5 not found in omt data
+Label key ST801CZE_ST801C05DACZE_a87ff679a2f3e71d9181a67b7542122c_6 not found in omt data
+Label key ST801CZE_ST801C06DACZE_e4da3b7fbbce2345d7772b0674a318d5_7 not found in omt data
+Label key ST801CZE_ST801C07DACZE_9bddbc7080f6317566bbb85638dd4928_8 not found in omt data
+> id_string_concat='ST800LUX@This school year, approximately how many hours per week do you spend on paid* after-school tutoring in the following subjects?' is NOT in MoM
+> id_string_concat='ST800LUX@*Funded by your parents/grandparents/other relatives or yourself.' is NOT in MoM
+> id_string_concat='ST800LUX@Please also take into account weekends in your answer.' is NOT in MoM
+> id_string_concat='ST800LUX@(Please select one response in each row.)' is NOT in MoM
+> id_string_concat='ST802QCY@How important are the following things in the decisions you make about your future occupation?' is NOT in MoM
+> id_string_concat='ST802QCY@(Please select one response in each row.)' is NOT in MoM
+Label key ST828DEU_ST828_01DEU_ed321da83ebf7a2037d8aa48633d1a3b_2 not found in omt data
+Label key ST828DEU_ST828_02DEU_b425118bfdb914453dcf033f82390457_3 not found in omt data
+Label key ST828DEU_ST828_03DEU_556c07065a4179855cf37fb400bf0d82_4 not found in omt data
+Label key ST828DEU_ST828_04DEU_1f5cfe5a0cd334095ec59e6fd5291b0e_5 not found in omt data
+Label key ST828DEU_ST828_05DEU_40ec6cc3e5092849f4056a790acf1c83_6 not found in omt data
+Label key ST828DEU_ST828C01HADEU_7bfbd44d27afd5a1b3f1dee60bca002d_7 not found in omt data
+Label key ST828DEU_ST828C02HADEU_8f9d562ba683c93e3d5852ee2bfe0b97_8 not found in omt data
+Label key ST828DEU_ST828C03HADEU_31c123fdeadfb8e428212c3cbd2839a0_9 not found in omt data
+Label key ST828DEU_ST828C04HADEU_cbfdfd3fd5ec539236c1b595a9a291e5_10 not found in omt data
+Label key ST828DEU_ST828C05HADEU_dc5c54fc0af35ba764c6b536445c710e_11 not found in omt data
+Label key ST828DEU_ST828C06HADEU_c93a9204afe89d88c9d1306bb9137fc8_12 not found in omt data
+Label key ST828DEU_ST828C07HADEU_05d7ee5e1d3e6129ba849c4f65062e45_13 not found in omt data
+Label key ST828DEU_ST828C08HADEU_af8cfd6f9db6d22e02c08aeddf6db591_14 not found in omt data
+Label key ST828DEU_ST828C09HADEU_334f8b9e0cc2ffec09b6453aded99585_15 not found in omt data
+Label key ST828DEU_ST828C10HADEU_d2cc06358d9db31511e165f6d6df2cdc_16 not found in omt data
+
+Mismatches found, report written to 'mom_mismatches_report_20231208-135447.xlsx'.
+
+more occurrences of ST003 than labels associated with it
+more occurrences of ST228 than labels associated with it
+more occurrences of ST229 than labels associated with it
+more occurrences of ST326 than labels associated with it
+more occurrences of ST059 than labels associated with it
+more occurrences of ST071 than labels associated with it
+more occurrences of ST507 than labels associated with it
+more occurrences of ST329 than labels associated with it

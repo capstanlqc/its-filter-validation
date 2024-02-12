@@ -1,0 +1,829 @@
+<file xmlns:its="http://www.w3.org/2005/11/its" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+    <sharedstimuli></sharedstimuli>
+    <items>
+        <item id="SC150FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC150FL_e13cfbd3a6ab33597fa0ed083a304eca_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌Does your school offer any of the following options to students in &lt;national modal grade for 15-year-olds&gt; whose &lt;heritage language&gt; is not the &lt;test language&gt;?‌</strong>
+                </text>
+            </label>
+            <label key="SC150FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="SC150FL_SC150FL_01_51e6674c5a2b9bbcd2ebcb26119d17ca_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Yes‌</em>
+                </text>
+            </label>
+            <label key="SC150FL_SC150FL_02_568f834c30c3c51b372d03d2377fe864_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌No‌</em>
+                </text>
+            </label>
+            <label key="SC150FL_SC150FLQ01IA_c769394ca3b0323df2fca215429d5427_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>These students attend regular classes and receive additional periods of instruction aimed at developing &lt;test language&gt; skills (e.g. reading literacy, grammar, vocabulary, communication).</text>
+            </label>
+            <label key="SC150FL_SC150FLQ02IA_e7525b02f41d560776a3a4237c56433e_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Before transferring to regular classes, these students attend a preparatory programme aimed at developing &lt;test language&gt; skills (e.g. reading literacy, grammar, vocabulary, communication).</text>
+            </label>
+            <label key="SC150FL_SC150FLQ03IA_489ffb285e0030646e113fa38995059b_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Before transferring to regular classes, these students receive some instruction in school subjects through their &lt;heritage language&gt;.</text>
+            </label>
+            <label key="SC150FL_SC150FLQ04IA_c63b66e5c592eb4bfc05758c3b199245_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>These students receive significant amounts of instruction in their &lt;heritage language&gt; aimed at developing proficiency in both languages.</text>
+            </label>
+            <label key="SC150FL_SC150FLQ05IA_9a6f4bbc7d4865fbc52d128c9369dafd_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Class size is reduced to cater to the special needs of these students.</text>
+            </label>
+        </item>
+        <item id="SC163FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC163FL_4f608cd3c1aa445595497c12c357d107_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌Which of the following &lt;foreign languages²&gt; can students in &lt;national modal grade for 15-year-olds&gt; take at your school this school year?‌</strong>
+                </text>
+            </label>
+            <label key="SC163FL_56a57f04b0643693d3bf563ff321d745_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please consider regular lessons as well as other learning activities offered by the school.) ‌</em>
+                </text>
+            </label>
+            <label key="SC163FL_0e018d5ee0d58a1114eba66a3b401110_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select all that apply.)‌</em>
+                </text>
+            </label>
+            <label key="SC163FL_SC163FLQ01_a5dc89ba3579198905dd3037044ff1ad_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English²&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLQ02_ad225f707802ba118c22987186dd38e8_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>French</text>
+            </label>
+            <label key="SC163FL_SC163FLQ03_32571fbc7ea228114929e29166e849c3_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,uk-UA" its:localeFilterType="include">
+                <text>&lt;Chinese (e.g. Cantonese, Mandarin)&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLQ04_86bc3115eb4e9873ac96904a4a68e19e_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>German</text>
+            </label>
+            <label key="SC163FL_SC163FLQ05_cb5480c32e71778852b08ae1e8712775_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Spanish</text>
+            </label>
+            <label key="SC163FL_SC163FLQ06_4be8e06d27bca7e1828f2fa9a49ca985_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Italian</text>
+            </label>
+            <label key="SC163FL_SC163FLQ07_f32ced6a9ba164c4b3c047fd1d7c882e_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,bg-BG,es-CO,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,hr-HR,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Japanese</text>
+            </label>
+            <label key="SC163FL_SC163FLQ08_deba6920e70615401385fe1fb5a379ec_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Russian</text>
+            </label>
+            <label key="SC163FL_SC163FLQ09_272ccb8592bafde0baf1dedce0fd3ac2_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,nl-BE,bg-BG,es-CO,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Arabic</text>
+            </label>
+            <label key="SC163FL_SC163FLQ10_4e60091c73fa417abdc11f418eb52613_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,bg-BG,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;Language 601&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLQ11_5aa595007015cfd45b621ff693f5a561_14" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,bg-BG,cs-CZ,de-DE,da-DK,fi-FI,hr-HR,it-IT,ar-QA,en-QA,ro-RO,uk-UA" its:localeFilterType="include">
+                <text>&lt;Language 602&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLQ12_d1f478f88402c4807c519616e905546b_15" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,bg-BG,de-DE,da-DK,fi-FI,hr-HR,it-IT,ar-QA,en-QA,ro-RO,uk-UA" its:localeFilterType="include">
+                <text>&lt;...etc&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLN15_bbae54b696f8b1b6c2e1dd1162549c02_16" its:localeFilterList="de-DE,da-DK,fi-FI" its:localeFilterType="include">
+                <text>&lt;Language 604&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLN16_fa734ff20cdb3e4cf1cb83298e4aec5d_17" its:localeFilterList="de-DE,da-DK,fi-FI" its:localeFilterType="include">
+                <text>&lt;Language 605&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLN17_378e2dbb1ce54d6111de32abe592df96_18" its:localeFilterList="de-DE,da-DK,fi-FI" its:localeFilterType="include">
+                <text>&lt;Language 606&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLN18_99f654776ef6ed864913de92d08c9420_19" its:localeFilterList="de-DE,da-DK,fi-FI" its:localeFilterType="include">
+                <text>&lt;Language 607&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLN19_d4368d110e1b3dadbdde01dfd233534e_20" its:localeFilterList="de-DE,da-DK" its:localeFilterType="include">
+                <text>&lt;Language 608&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLN20_0f2cecd57f4c085a2df2c64cdcad9d6f_21" its:localeFilterList="de-DE,da-DK" its:localeFilterType="include">
+                <text>&lt;Language 609&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLN21_1a6d6ab957c2486dff78387bd279e550_22" its:localeFilterList="de-DE,da-DK" its:localeFilterType="include">
+                <text>&lt;Language 610&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLN22_d517161e1a1a259d0117191396715549_23" its:localeFilterList="de-DE,da-DK" its:localeFilterType="include">
+                <text>&lt;Language 611&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLN23_c1eedc0705b0ba46bc8b6527a21cc016_24" its:localeFilterList="de-DE,da-DK" its:localeFilterType="include">
+                <text>&lt;Language 612&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLN24_a91fc47f654f8a163de50dc3db7fb49f_25" its:localeFilterList="de-DE,da-DK" its:localeFilterType="include">
+                <text>&lt;Language 613&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLN25_a26281e47264e52e82eef52eed80a6be_26" its:localeFilterList="de-DE,da-DK" its:localeFilterType="include">
+                <text>&lt;Language 614&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLN26_3ca41de7d3201ea47e2a22261a43edb9_27" its:localeFilterList="de-DE,da-DK" its:localeFilterType="include">
+                <text>&lt;Language 615&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLN27_b02183973ebd1e1ebd2b54cb7d78d856_28" its:localeFilterList="de-DE,da-DK" its:localeFilterType="include">
+                <text>&lt;Language 616&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLN28_4c6658f4b5ec60edb449fd7fdb4dac81_29" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 617&gt;</text>
+            </label>
+            <label key="SC163FL_SC163FLQ13_7fc17ec927a73775fd1712498f4892d9_30" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Other language</text>
+            </label>
+            <label key="SC163FL_SC163FLQ14_dab9ddec38fd0ca37bd10cb9b0406288_31" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>No &lt;foreign languages²&gt; are offered in my school</text>
+            </label>
+        </item>
+        <item id="SC186FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC186FL_8ec9934be05b54704b4a2bcbe40d5027_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌Are the following subjects required or optional for students in &lt;national modal grade for 15-year-olds&gt;?‌</strong>
+                </text>
+            </label>
+            <label key="SC186FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="SC186FL_SC186FL_01_e4e23734ad12b625915cd9e0d1701bf0_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Required‌</em>
+                </text>
+            </label>
+            <label key="SC186FL_SC186FL_02_dbc5c0e72695209ca03a72048164ad32_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Optional‌</em>
+                </text>
+            </label>
+            <label key="SC186FL_SC186FL_03_e38f4def1d2d2abe1888f2890234d216_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Courses in this subject are not available‌</em>
+                </text>
+            </label>
+            <label key="SC186FL_SC186FL_04_92adbcc9e5d193478a76b4942213cf4d_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌It depends on the programme offered by the school‌</em>
+                </text>
+            </label>
+            <label key="SC186FL_SC186FLQ03JA_5e33524e0eddea2ac544cdb60fa23eb1_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;School Science&gt;</text>
+            </label>
+            <label key="SC186FL_SC186FLQ01JA_540b21ecdb276f5087ee585cedd6d5d0_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Mathematics</text>
+            </label>
+            <label key="SC186FL_SC186FLQ02JA_1c5ded48c52003ff8daa910b8b33f2d7_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;Reading test language&gt;</text>
+            </label>
+            <label key="SC186FL_SC186FLQ04FL_daf4710a7f5b546a3ab20a7d2c2724fe_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English¹&gt;</text>
+            </label>
+            <label key="SC186FL_SC186FLQ05FL_b5fd70a0b23fd7204a86b11d2fe2f7b7_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;Foreign languages²&gt; (at least one)</text>
+            </label>
+        </item>
+        <item id="SC216FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC216FL_0eab4f5386f67893587f8cb688f16886_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌What types of additional &lt;English¹&gt; activities does your school offer?‌</strong>
+                </text>
+            </label>
+            <label key="SC216FL_538ecad21aa0947f16a007efc39acfac_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(&lt;Remedial lessons&gt; refer to any lessons offered in addition to regular lessons to meet the school’s &lt;English¹&gt; learning goals. &lt;Enrichment activities&gt; refer to any activities offered in addition to regular lessons for students who are interested in further learning, for example conversation clubs, trips abroad, and language competition.)‌</em>
+                </text>
+            </label>
+            <label key="SC216FL_795093b60d321f8a3ce2c692010cfa5a_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="SC216FL_SC216FLQ0101_6adf97f83acf6453d4a6a4b1070f3754_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>None</text>
+            </label>
+            <label key="SC216FL_SC216FLQ0102_ced843faca8fbbfb034658ec25d064b1_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;Remedial lessons&gt; only</text>
+            </label>
+            <label key="SC216FL_SC216FLQ0103_723600fdb54434ef2a47d867531ea085_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;Enrichment activities&gt; only</text>
+            </label>
+            <label key="SC216FL_SC216FLQ0104_436efd91155702f430dd93e7722db3ad_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Both &lt;remedial lessons&gt; and &lt;enrichment activities&gt;</text>
+            </label>
+        </item>
+        <item id="SC123FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC123FL_6005fe7ac88198c9fc9e4df698ad3e9a_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌Are the following practices for multicultural and multilingual learning implemented in your school?‌</strong>
+                </text>
+            </label>
+            <label key="SC123FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="SC123FL_SC123FL_01_51e6674c5a2b9bbcd2ebcb26119d17ca_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Yes‌</em>
+                </text>
+            </label>
+            <label key="SC123FL_SC123FL_02_2a22924ac7b4659975a147ac45dfda9f_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌No ‌</em>
+                </text>
+            </label>
+            <label key="SC123FL_SC123FLQ01_6d199be74aab18a5d77a2e28a27fbd5e_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Our school offers an exchange programme with one or more schools in other countries.</text>
+            </label>
+            <label key="SC123FL_SC123FLQ02_6f0ac93312533c8be5beca3d404458c2_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Our school organises multicultural events (e.g. cultural diversity day).</text>
+            </label>
+            <label key="SC123FL_SC123FLQ03_5773eb66a22936809f011bd6c30393e9_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>In our school, we celebrate festivities from other cultures.</text>
+            </label>
+            <label key="SC123FL_SC123FLQ04_c435515b71a4f5367eb0736d364167d5_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>In our school, students are encouraged to communicate remotely (e.g. via &lt;Skype ®&gt; or mail) with people speaking other languages.</text>
+            </label>
+            <label key="SC123FL_SC123FLQ05_21e1f2233f2232aa68442315b9f8ae72_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Our school organises multilingual events (e.g. language weeks).</text>
+            </label>
+            <label key="SC123FL_SC123FLQ06_8fd638268e9fba8377a53c682d214e3a_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Our school invites visitors to speak in &lt;foreign languages²&gt; to students.</text>
+            </label>
+            <label key="SC123FL_SC123FLQ07_390030220a5af1953abcaf06d8a73a70_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Our school supports activities that encourage students’ expression of diverse identities (e.g. national, religious, ethnic or social identities).</text>
+            </label>
+            <label key="SC123FL_SC123FLQ08_55fe5d4b9d8d341c9be6d9534da9f9c3_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Our school adopts different approaches to educate students about cultural differences (e.g. teamwork, peer to peer learning, simulations, art, etc.).</text>
+            </label>
+        </item>
+        <item id="SC208FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,it-IT,en-CY,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC208FL_4ead26c512ab99ee7c8cb63ac412752b_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌What is the average size of &lt;English¹&gt; classes in &lt;national modal grade for 15-year-olds&gt; in your school?‌</strong>
+                </text>
+            </label>
+            <label key="SC208FL_795093b60d321f8a3ce2c692010cfa5a_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="SC208FL_SC208FLQ01JA01_9604e3d6e826fe6b732505d78b3e784d_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>15 students or fewer</text>
+            </label>
+            <label key="SC208FL_SC208FLQ01JA02_1e76e892c6549296d15a25d470c82520_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>16-20 students</text>
+            </label>
+            <label key="SC208FL_SC208FLQ01JA03_198b2f750999243ca7360698c5df0978_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>21-25 students</text>
+            </label>
+            <label key="SC208FL_SC208FLQ01JA04_863086d3b9e3072f5d4a4e9dda3952a7_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>26-30 students</text>
+            </label>
+            <label key="SC208FL_SC208FLQ01JA05_7fc7c076a70d2724ad9cf411d410bc76_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>31-35 students</text>
+            </label>
+            <label key="SC208FL_SC208FLQ01JA06_ff5c3c430b1bcf0a686a29854db229e1_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>36-40 students</text>
+            </label>
+            <label key="SC208FL_SC208FLQ01JA07_26dce1c57c73153de04bcacd2d901ed5_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>41-45 students</text>
+            </label>
+            <label key="SC208FL_SC208FLQ01JA08_e6e98ea5f6bfb8ad2b0bafb22bc053c3_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>46-50 students</text>
+            </label>
+            <label key="SC208FL_SC208FLQ01JA09_0caa43e84e1af95be0b8ec7b0cd5f806_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>More than 50 students</text>
+            </label>
+        </item>
+        <item id="SC102FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC102FL_0bc914e14c255f472bb80159ee7ac5b4_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌Is your school’s capacity to provide &lt;English²&gt; learning opportunities hindered by any of the following issues?‌</strong>
+                </text>
+            </label>
+            <label key="SC102FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="SC102FL_SC102FL_01_f2b67c87e0c885436b9862d8e21a8415_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Not at all ‌</em>
+                </text>
+            </label>
+            <label key="SC102FL_SC102FL_02_8a9b5e06fefa3d2cdf9c9d22ced0c841_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Very little ‌</em>
+                </text>
+            </label>
+            <label key="SC102FL_SC102FL_03_342f8c78b6e9b7d5d67d014a8e3f89a0_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌To some extent‌</em>
+                </text>
+            </label>
+            <label key="SC102FL_SC102FL_04_708aa2ff67e290ab47c7055c85905bb0_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌A lot ‌</em>
+                </text>
+            </label>
+            <label key="SC102FL_SC102FLQ01_54f8a95bb98ba7efe3f43de9f324b57a_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>A lack of &lt;English¹&gt; teaching staff</text>
+            </label>
+            <label key="SC102FL_SC102FLQ02_04c693d2d54b1b05f726065b880a7f3d_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English¹&gt; teaching staff with inadequate teacher training</text>
+            </label>
+            <label key="SC102FL_SC102FLQ03_ca89f6bfa4b3c12c0b3c4167a9ef9ef1_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English¹&gt; teaching staff with inadequate &lt;English²&gt; language proficiency</text>
+            </label>
+            <label key="SC102FL_SC102FLQ04_d8979ac2bae68c6ccc886a278e3db181_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,es-CO,de-DE,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>A lack of &lt;English language assistants&gt;</text>
+            </label>
+            <label key="SC102FL_SC102FLQ05_8deb8d4c0ba46a40474868eca655122d_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>A lack of teaching materials and pedagogical resources</text>
+            </label>
+            <label key="SC102FL_SC102FLQ06_021925e0cf043d626785d84da5bab0a0_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Inadequate or poor quality teaching materials and pedagogical resources</text>
+            </label>
+            <label key="SC102FL_SC102FLQ07_95e0020abaef5dbdf78469b1771ecba3_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>A lack of resources for &lt;English¹&gt; &lt;enrichment&gt; language activities</text>
+            </label>
+            <label key="SC102FL_SC102FLQ08_d04a2a0ecec07f6e5a4a0ce53204bc66_14" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>A lack of resources for &lt;remedial English¹ lessons&gt;</text>
+            </label>
+            <label key="SC102FL_SC102FLQ09_e1c9d8f5dbbd6f645eb9b7f6cb03b897_15" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>A lack of resources for remote &lt;English¹&gt; teaching and learning</text>
+            </label>
+            <label key="SC102FL_SC102FLQ10_cd9f3cda44d1d1a5768f13c84620da3b_16" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>A lack of professional development opportunities for &lt;English¹&gt; teaching staff</text>
+            </label>
+        </item>
+        <item id="SC131FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC131FL_785200c8da3543bf03b53928c4fa6ae1_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌During the last 12 months, have the following staff members below participated in professional development activities to improve their own &lt;English²&gt; proficiency?‌</strong>
+                </text>
+            </label>
+            <label key="SC131FL_521c441a743854bec7c6e61efc255dc2_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please consider only development activities that staff undertake as part of their work.)‌</em>
+                </text>
+            </label>
+            <label key="SC131FL_ad4ef30c6d6302052d7a6dd5f5239426_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="SC131FL_SC131FL_01_6437fc8788ea609fc84bcd86bbcdd175_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Yes, all or most of them‌</em>
+                </text>
+            </label>
+            <label key="SC131FL_SC131FL_02_c644a8f158dfc8c76d624edbe664b75d_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Yes, some of them ‌</em>
+                </text>
+            </label>
+            <label key="SC131FL_SC131FL_03_568f834c30c3c51b372d03d2377fe864_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌No‌</em>
+                </text>
+            </label>
+            <label key="SC131FL_SC131FL_04_c0638d6ccb25319b67f4d17dfecd95c5_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌We don’t have this type of staff member‌</em>
+                </text>
+            </label>
+            <label key="SC131FL_SC131FLQ01_15ee41f7bd19532b7bec08f154d12b6e_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English¹&gt; teachers</text>
+            </label>
+            <label key="SC131FL_SC131FLQ02_70a2725bb4c6c0019c1bd544d788d8fa_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Teachers of other &lt;modern foreign languages¹&gt; (except &lt;English¹&gt;)</text>
+            </label>
+            <label key="SC131FL_SC131FLQ03_35ce1fa43f156d92105990330253fc8b_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Teachers of other subjects (e.g. &lt;history&gt;, &lt;science&gt;)</text>
+            </label>
+            <label key="SC131FL_SC131FLQ04_04fa3ce4b1aa99d6b997d5980116ba8a_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,es-CO,de-DE,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English language assistants&gt;</text>
+            </label>
+        </item>
+        <item id="SC191FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,bg-BG,da-DK,en-CY,ro-RO,sv-SE,en-SE,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC191FL_0ef1646da1141a86c2ea9fc2de2f15b3_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌In your school, are there &lt;English language assistants&gt; involved in teaching activities?‌</strong>
+                </text>
+            </label>
+            <label key="SC191FL_581f60abcd95cbbef7a0dfdb6b50b2a3_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(&lt;English language assistants&gt; are school staff members, but not regular teachers, who have a very good command of the &lt;English²&gt; language and use it in the classroom with the presence of a teacher.)‌</em>
+                </text>
+            </label>
+            <label key="SC191FL_795093b60d321f8a3ce2c692010cfa5a_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="SC191FL_SC191FLQ0101_93cba07454f06a4a960172bbd6e2a435_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Yes</text>
+            </label>
+            <label key="SC191FL_SC191FLQ0102_bafd7322c6e97d25b6299b5d6fe8920b_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,es-CO,cs-CZ,de-DE,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>No</text>
+            </label>
+        </item>
+        <item id="SC134FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sv-SE,en-SE,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC134FL_15832cc22a46125b4ce5059ccf56c7eb_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌To what extent do you agree or disagree with the following statements about &lt;English¹&gt; teachers in your school?‌</strong>
+                </text>
+            </label>
+            <label key="SC134FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="SC134FL_SC134FL_01_c08b321f2ce3a74800d5bf730f8a11cf_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly disagree ‌</em>
+                </text>
+            </label>
+            <label key="SC134FL_SC134FL_02_088c1442946377590d0e88eebb93e0a1_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Disagree‌</em>
+                </text>
+            </label>
+            <label key="SC134FL_SC134FL_03_9bd1cc32a010e67f471f0992668129e4_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Agree‌</em>
+                </text>
+            </label>
+            <label key="SC134FL_SC134FL_04_38afe4ba2ffcf2d6c9882a70406a7c8d_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Strongly agree‌</em>
+                </text>
+            </label>
+            <label key="SC134FL_SC134FLQ01_162d331f9fdfca3d8e23f3cd19a2a60a_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English¹&gt; teachers hold high expectations for student achievement in &lt;English¹&gt;</text>
+            </label>
+            <label key="SC134FL_SC134FLQ02_ae19c556953ccb6e3f5c61dbaf6622e2_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English¹&gt; teachers try to motivate students in learning &lt;English²&gt;</text>
+            </label>
+            <label key="SC134FL_SC134FLQ03_fd8abd1e08e96b57e659571b7687b315_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English¹&gt; teachers are engaged with their job</text>
+            </label>
+            <label key="SC134FL_SC134FLQ04_19bba496c130435c051a03271dd677a7_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English¹&gt; teachers strive to reach the learning goals set by the school or the education authorities</text>
+            </label>
+            <label key="SC134FL_SC134FLQ05_83a065c2e47f9736788f184bb46f7d30_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English¹&gt; teachers are motivated to get the best out of their students</text>
+            </label>
+            <label key="SC134FL_SC134FLQ06_73a60a294708ddf2c07fd128a987ad34_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English¹&gt; teachers succeed in getting students interested in learning &lt;English²&gt;</text>
+            </label>
+            <label key="SC134FL_SC134FLQ07_eebf2af1d47f0f440c8f4dcf18b04646_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English¹&gt; teachers put effort into preparing their lessons</text>
+            </label>
+            <label key="SC134FL_SC134FLQ08_fb074afff246145737ce792570bcbeae_14" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English¹&gt; teachers are motivated to improve their own teaching practices</text>
+            </label>
+        </item>
+        <item id="SC258FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC258FL_0b94409b87ee6530dc6e8d8143494877_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌Which of the following statements best describes the situation for &lt;remedial English¹ lessons&gt; for &lt;national modal grade for 15-year olds&gt; in your school?‌</strong>
+                </text>
+            </label>
+            <label key="SC258FL_795093b60d321f8a3ce2c692010cfa5a_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="SC258FL_SC258FLQ0101_2c1492b796e78e94a53d8250c9b8d6d3_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;Remedial English¹ lessons &gt; are sought voluntarily by students</text>
+            </label>
+            <label key="SC258FL_SC258FLQ0102_11e505946efe8e0642a713c3dfc19796_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;Remedial English¹ lessons &gt; are compulsory for the students taking them</text>
+            </label>
+        </item>
+        <item id="SC482FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC482FL_a20449d83c00f722384c30d64c0ef4af_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌In which &lt;foreign languages²&gt; can students learn subjects other than languages (e.g. &lt;history, science&gt;) in your school?‌</strong>
+                </text>
+            </label>
+            <label key="SC482FL_8a00b2ef216d99b54c2c9c8aa1ad9bd3_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select all that apply.)‌</em>
+                </text>
+            </label>
+            <label key="SC482FL_SC482FLQ01_6adf97f83acf6453d4a6a4b1070f3754_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>None</text>
+            </label>
+            <label key="SC482FL_SC482FLQ02_a5dc89ba3579198905dd3037044ff1ad_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English²&gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLQ03_ad225f707802ba118c22987186dd38e8_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>French</text>
+            </label>
+            <label key="SC482FL_SC482FLQ04_32571fbc7ea228114929e29166e849c3_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,bg-BG,es-CO,de-DE,eu-ES,ca-ES,gl-ES,es-ES,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,uk-UA" its:localeFilterType="include">
+                <text>&lt;Chinese (e.g. Cantonese, Mandarin)&gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLQ05_86bc3115eb4e9873ac96904a4a68e19e_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>German</text>
+            </label>
+            <label key="SC482FL_SC482FLQ06_cb5480c32e71778852b08ae1e8712775_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,bg-BG,es-CO,cs-CZ,de-DE,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Spanish</text>
+            </label>
+            <label key="SC482FL_SC482FLQ07_4be8e06d27bca7e1828f2fa9a49ca985_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,bg-BG,es-CO,cs-CZ,de-DE,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Italian</text>
+            </label>
+            <label key="SC482FL_SC482FLQ08_f32ced6a9ba164c4b3c047fd1d7c882e_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,bg-BG,es-CO,de-DE,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,hr-HR,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Japanese</text>
+            </label>
+            <label key="SC482FL_SC482FLQ09_deba6920e70615401385fe1fb5a379ec_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,bg-BG,es-CO,cs-CZ,de-DE,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Russian</text>
+            </label>
+            <label key="SC482FL_SC482FLQ10_272ccb8592bafde0baf1dedce0fd3ac2_12" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,bg-BG,es-CO,de-DE,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Arabic</text>
+            </label>
+            <label key="SC482FL_SC482FLQ11_4c6658f4b5ec60edb449fd7fdb4dac81_13" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;Language 617&gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLQ12_8d9912bc15e2b1f38b8c287bba0c5339_14" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,de-DE,fi-FI,hr-HR,it-IT,ar-QA,en-QA,ro-RO,uk-UA" its:localeFilterType="include">
+                <text>&lt;Language 618&gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLQ13_934cac7fd5e7efb0900dae76603221a3_15" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,de-DE,fi-FI,hr-HR,it-IT,ar-QA,en-QA,ro-RO,uk-UA" its:localeFilterType="include">
+                <text>&lt;…etc.&gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLN15_b66e69c9f6c82d86fd27faac4a2d01ff_16" its:localeFilterList="de-DE,fi-FI,hr-HR" its:localeFilterType="include">
+                <text>&lt;Language 620 &gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLN16_3908fc9d93ff08d2d3828b7c37436890_17" its:localeFilterList="de-DE,fi-FI" its:localeFilterType="include">
+                <text>&lt;Language 621 &gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLN17_b94a9dd01405ce971f01b4c2a6162511_18" its:localeFilterList="de-DE,fi-FI" its:localeFilterType="include">
+                <text>&lt;Language 622&gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLN18_8f135a9a84e0d02096a5b65415056c9d_19" its:localeFilterList="de-DE,fi-FI" its:localeFilterType="include">
+                <text>&lt;Language 623&gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLN19_653f0168755fd6d7bfebdf7543575d66_20" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 624&gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLN20_2e7b68cbedbd2e583517d3fede5a762a_21" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 625&gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLN21_170bcb469a425a9356671ab4dd7fec70_22" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 626&gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLN22_e1056dd34b70554f6fadbc0737ce9470_23" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 627&gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLN23_de965860a48a3bd18be8cb06660b92d2_24" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 628&gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLN24_307a66b6c5e086cf7dba9e5c614d47b9_25" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 629&gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLN25_1b2d61d9b65af5ca048e6a59f6e89c77_26" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 630&gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLN26_bf65091d70bdfdb0daf370d4acb2a253_27" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;Language 631&gt;</text>
+            </label>
+            <label key="SC482FL_SC482FLQ14_7fc17ec927a73775fd1712498f4892d9_28" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Other language</text>
+            </label>
+        </item>
+        <item id="SC174FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC174FL_256b2c897a1134a03e1e7cab2dbf1584_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌How many foreign languages are being taught at your school &lt;this academic year&gt;?‌</strong>
+                </text>
+            </label>
+            <label key="SC174FL_795093b60d321f8a3ce2c692010cfa5a_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response.)‌</em>
+                </text>
+            </label>
+            <label key="SC174FL_SC174FLQ0101_6adf97f83acf6453d4a6a4b1070f3754_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>None</text>
+            </label>
+            <label key="SC174FL_SC174FLQ0102_06c2cea18679d64399783748fa367bdd_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>One</text>
+            </label>
+            <label key="SC174FL_SC174FLQ0103_aada29daee1d64ed0fe907043855cb7e_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Two</text>
+            </label>
+            <label key="SC174FL_SC174FLQ0104_ca8a2087e5557e317599344687a57391_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Three</text>
+            </label>
+            <label key="SC174FL_SC174FLQ0105_981b8fcee42e1e726a67a2b9a98ea6e9_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Four</text>
+            </label>
+            <label key="SC174FL_SC174FLQ0106_e5d9de39f7ca1ba2637e5640af3ae8aa_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Five</text>
+            </label>
+            <label key="SC174FL_SC174FLQ0107_7c12e66743927d95e4331899e3bf7658_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Six or more</text>
+            </label>
+        </item>
+        <item id="SC162FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC162FL_f05bf022fd534b62d22e0d5cd5f23abf_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌How many of the following types of employees are on the staff of your school?‌</strong>
+                </text>
+            </label>
+            <label key="SC162FL_014f6db840fa9c8182df71ee14170fff_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please enter a number in each space provided. Enter “0” (zero) if there are none.)‌</em>
+                </text>
+            </label>
+            <label key="SC162FL_2ec49825054beec0b6297269c73a8c11_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Integer number‌</em>
+                </text>
+            </label>
+            <label key="SC162FL_534d593361193a807fbd0abc91c32c0f_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English¹&gt; teachers (teachers teaching &lt;English¹&gt; as well as other &lt;modern foreign languages1&gt; should be counted as &lt;English¹&gt; teachers).</text>
+            </label>
+            <label key="SC162FL_98bfd997f0d9e53b91ef2024423481ab_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Other teachers of &lt;modern foreign languages¹&gt;</text>
+            </label>
+            <label key="SC162FL_04fa3ce4b1aa99d6b997d5980116ba8a_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,es-CO,de-DE,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>&lt;English language assistants&gt;</text>
+            </label>
+            <label key="SC162FL_0c30e2322c4d59fd66106326343d5066_10" its:localeFilterList="de-DE" its:localeFilterType="include">
+                <text>&lt;National adaptation 631&gt;</text>
+            </label>
+        </item>
+        <item id="SC113FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sv-SE,en-SE,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC113FL_46169294a0a7eb60ee15eb6881aa9bc5_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong><span class="txt-underline">During the last 12 months</span>, have the following situations related to international teacher mobility occurred in your school?</strong>
+                </text>
+            </label>
+            <label key="SC113FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="SC113FL_SC113FL_01_51e6674c5a2b9bbcd2ebcb26119d17ca_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Yes‌</em>
+                </text>
+            </label>
+            <label key="SC113FL_SC113FL_02_2a22924ac7b4659975a147ac45dfda9f_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌No ‌</em>
+                </text>
+            </label>
+            <label key="SC113FL_SC113FLQ01_96086878811fbb1b982b4eb8ede43a21_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Our school has hosted teachers from schools where &lt;PISA reading test language&gt; is not the main language of instruction</text>
+            </label>
+            <label key="SC113FL_SC113FLQ03_678b443d0cbd7fcfc6ab01c7c843d050_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Teachers from our school have visited, for professional purposes, other schools where &lt;PISA reading test language&gt; is not the main language of instruction</text>
+            </label>
+            <label key="SC113FL_SC113FLQ04_ea06297fca5f3c5c82d81918e42c5d69_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Teachers from our school have participated in activities to share their professional experience in schools where &lt;PISA reading test language&gt; is not the main language of instruction</text>
+            </label>
+            <label key="SC113FL_SC113FLQ05_fe6d80c73fbb50de799661d6b718e163_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Funding has been available for teachers interested in gaining professional experience in schools where &lt;PISA reading test language&gt; is not the main language of instruction</text>
+            </label>
+            <label key="SC113FL_SC113FLQ06_87cc560966614035acbdc8d60f41effd_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Our school has funded some teachers to visit schools where &lt;PISA reading test language&gt; is not the main language of instruction</text>
+            </label>
+        </item>
+        <item id="SC481FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sv-SE,en-SE,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC481FL_2f027fa94311b803bec69814204da04b_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌Do the following statements on student mobility apply to this school?‌</strong>
+                </text>
+            </label>
+            <label key="SC481FL_1aec947fbc7b78ad468d5b64fea5c0f5_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Student exchanges are visits of any duration in which students from different countries or regions meet in person and spend time together.) ‌</em>
+                </text>
+            </label>
+            <label key="SC481FL_ad4ef30c6d6302052d7a6dd5f5239426_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="SC481FL_SC481FL_01_51e6674c5a2b9bbcd2ebcb26119d17ca_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌Yes‌</em>
+                </text>
+            </label>
+            <label key="SC481FL_SC481FL_02_2a22924ac7b4659975a147ac45dfda9f_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌No ‌</em>
+                </text>
+            </label>
+            <label key="SC481FL_SC481FLQ01_9b7627efb45576af37bf490a83589fd4_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>During the last 12 months, our school hosted exchange students from non-&lt;PISA reading test language&gt; speaking schools.</text>
+            </label>
+            <label key="SC481FL_SC481FLQ02_d6b09520c4053aa3d7104d32b2179709_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>During the last 12 months, some of my school’s students have been on exchange visits to non-&lt;PISA reading test language&gt; schools.</text>
+            </label>
+            <label key="SC481FL_SC481FLQ03_75a5b3f679d567bc1f699a67dd319bcc_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Funding is available for teachers organising student exchanges to non-&lt;PISA reading test language&gt; schools.</text>
+            </label>
+        </item>
+        <item id="SC164FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC164FL_8ed2500a30589511fe9593d17b8cbc33_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌In your school, what percentage of students in &lt;national modal grade for 15-year-olds&gt; are currently learning the following &lt;foreign languages²&gt;?‌</strong>
+                </text>
+            </label>
+            <label key="SC164FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="SC164FL_SC164FL_01_27cf1f66b7c931209255ed3696e587ed_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌None‌</em>
+                </text>
+            </label>
+            <label key="SC164FL_SC164FL_02_5667b9b518328114cfdd083e6451f801_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌1% to 25%‌</em>
+                </text>
+            </label>
+            <label key="SC164FL_SC164FL_03_7aad223e9774a7fb2783bb894795d02b_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌26% to 50%‌</em>
+                </text>
+            </label>
+            <label key="SC164FL_SC164FL_04_ed83cb751f5302d916be711f01c077ea_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌51% to 75%‌</em>
+                </text>
+            </label>
+            <label key="SC164FL_SC164FL_05_4689a715b5f1e2982848a6f224e54c61_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌More than 75%‌</em>
+                </text>
+            </label>
+            <label key="SC164FL_SC164FLQ03_1bfb19646a8675b5837e8ceb03710f0b_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Students who are learning &lt;English²&gt; and other &lt;foreign languages²&gt;</text>
+            </label>
+            <label key="SC164FL_SC164FLQ01_22606b9360e797504e59f691085082dc_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Students who are learning &lt;English²&gt; as their only &lt;foreign language²&gt;</text>
+            </label>
+            <label key="SC164FL_SC164FLQ02_6fa0b440029d251c7cdfc2d112e0b6a4_10" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Students who are learning other &lt;foreign languages²&gt;, but not &lt;English²&gt;</text>
+            </label>
+            <label key="SC164FL_SC164FLQ04_541ee305e945929e72eab93a8f527945_11" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>Students who are learning at least one &lt;foreign language²&gt;</text>
+            </label>
+        </item>
+        <item id="SC480FL" its:localeFilterList="es-GT,ja-JP,en-KE,sq-XK,ky-KG,ru-KG,ms-MY,en-MY,mk-MK,sq-MK,es-PA,en-PH,vi-VN,en-CY,sq-AL,en-AE,ar-AE,es-AR,hy-AM,en-AU,de-AT,fr-BE,pt-BR,en-BN,ms-BN,en-CA,fr-CA,de-CH,fr-CH,it-CH,es-CL,es-CR,es-EC,ar-EG,en-EG,et-EE,ru-EE,ka-GE,zh-HK,hu-HU,id-ID,en-IE,ar-JO,kk-KZ,ru-KZ,ko-KR,en-LB,fr-LB,lt-LT,de-LU,fr-LU,lv-LV,en-MO,pt-MO,zh-MO,ar-MA,fr-MA,ro-MD,ru-MD,es-MX,en-MT,mt-MT,cnr-ME,mn-MN,kk-MN,nb-NO,en-NZ,pl-PL,es-PY,ar-PS,en-PS,az-QZ,ru-QZ,en-GB-scotland,en-GB,ar-SA,en-SG,es-SV,sr-RS,sk-SK,sl-SI,sl-SI-x-isced2,th-TH,tr-TR,es-UY,en-US,uz-UZ,ru-UZ,kaa-UZ,zh-CN" its:localeFilterType="exclude">
+            <label key="SC480FL_43500ef40b8a2cad410863b6b2696ed8_1" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <strong>‌In your school, what percentage of &lt;national modal grade for 15-year-olds&gt; students learn subjects other than &lt;modern foreign languages¹&gt; (e.g. &lt;history, science&gt;) in the following &lt;foreign languages²&gt; ?‌</strong>
+                </text>
+            </label>
+            <label key="SC480FL_ad4ef30c6d6302052d7a6dd5f5239426_2" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌(Please select one response in each row.)‌</em>
+                </text>
+            </label>
+            <label key="SC480FL_SC480FL_01_27cf1f66b7c931209255ed3696e587ed_3" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌None‌</em>
+                </text>
+            </label>
+            <label key="SC480FL_SC480FL_02_19b9929a091d7c372f8e7cd3335fe568_4" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌1% to 25%‌</em>
+                </text>
+            </label>
+            <label key="SC480FL_SC480FL_03_aaa732c8266a3fb113d2ae98f7b07ab3_5" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌26% to 50%‌</em>
+                </text>
+            </label>
+            <label key="SC480FL_SC480FL_04_7de522905e2ffad9a69d6489c3be89eb_6" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌51% to 75%‌</em>
+                </text>
+            </label>
+            <label key="SC480FL_SC480FL_05_05bfbd413592103ba8370bd66796ef65_7" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>
+                    <em>‌More than 75%‌</em>
+                </text>
+            </label>
+            <label key="SC480FL_SC480FLQ01_51da51f89ad8f91c7181833d747e76f2_8" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>In any &lt;foreign language²&gt; (including &lt;English²&gt;)</text>
+            </label>
+            <label key="SC480FL_SC480FLQ02_31ff24a98f2ff9f35bd84ec3a787fd87_9" its:localeFilterList="fr-ZZ,zh-Hant-ZZ,es-DO,fr-FR,pt-PT,nl-BE,bg-BG,es-CO,cs-CZ,de-DE,da-DK,eu-ES,ca-ES,gl-ES,es-ES,fi-FI,el-GR,hr-HR,he-IL,ar-IL,it-IT,nl-NL,es-PE,ar-QA,en-QA,el-CY,ro-RO,sv-SE,en-SE,zh-TW,uk-UA" its:localeFilterType="include">
+                <text>In &lt;English²&gt;</text>
+            </label>
+        </item>
+    </items>
+</file>
